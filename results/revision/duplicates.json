@@ -1,0 +1,532 @@
+{
+ "md5_groups": 116,
+ "md5_files": 332,
+ "md5_cross_class": [],
+ "thr10": {
+  "threshold": 10,
+  "n_related_pairs": 504,
+  "n_groups": 328,
+  "n_groups_size_gt1": 126,
+  "n_recordings_in_groups": 398,
+  "group_size_hist": [
+   0,
+   202,
+   31,
+   70,
+   13,
+   3,
+   6,
+   2,
+   0,
+   1
+  ],
+  "n_label_conflict_groups": 4,
+  "label_conflict_groups": [
+   [
+    "Bati100.wav",
+    "Bati106.wav",
+    "Bati3.wav",
+    "Tizita31.wav"
+   ],
+   [
+    "Ambassel147.wav",
+    "Tizita94.wav"
+   ],
+   [
+    "Anchihoye100.wav",
+    "Anchihoye123.wav",
+    "Anchihoye99.wav",
+    "Bati140.wav",
+    "Bati68.wav"
+   ],
+   [
+    "Anchihoye107.wav",
+    "Bati141.wav",
+    "Bati69.wav"
+   ]
+  ],
+  "n_recordings_in_conflict_groups": 14,
+  "split": {
+   "n_test": 120,
+   "n_contaminated": 79,
+   "n_contaminated_train_only": 73,
+   "n_clean": 41,
+   "clean_by_class": {
+    "Tizita": 22,
+    "Bati": 5,
+    "Ambassel": 9,
+    "Anchihoye": 5
+   },
+   "accuracy": {
+    "effnet_b0_mel": {
+     "all": [
+      88.6111111111111,
+      1.2729376930432894
+     ],
+     "contaminated": [
+      98.73417721518986,
+      1.7404671430534633e-14
+     ],
+     "clean": [
+      69.10569105691057,
+      3.725671296712063
+     ],
+     "clean_seeds": [
+      73.17073170731707,
+      65.85365853658537,
+      68.29268292682927
+     ]
+    },
+    "effnet_b2_mel": {
+     "all": [
+      87.22222222222223,
+      0.9622504486493708
+     ],
+     "contaminated": [
+      99.57805907172997,
+      0.7308231255564881
+     ],
+     "clean": [
+      63.41463414634146,
+      4.224514164802141
+     ],
+     "clean_seeds": [
+      68.29268292682927,
+      60.97560975609756,
+      60.97560975609756
+     ]
+    },
+    "ast": {
+     "all": [
+      85.55555555555556,
+      2.097176232019647
+     ],
+     "contaminated": [
+      100.0,
+      0.0
+     ],
+     "clean": [
+      57.72357723577235,
+      6.138076776642886
+     ],
+     "clean_seeds": [
+      58.536585365853654,
+      51.21951219512195,
+      63.41463414634146
+     ]
+    },
+    "wav2vec2": {
+     "all": [
+      85.27777777777777,
+      2.6787918780535915
+     ],
+     "contaminated": [
+      99.57805907172997,
+      0.7308231255564881
+     ],
+     "clean": [
+      57.72357723577236,
+      7.451342593424133
+     ],
+     "clean_seeds": [
+      56.09756097560976,
+      51.21951219512195,
+      65.85365853658537
+     ]
+    },
+    "hubert": {
+     "all": [
+      84.44444444444444,
+      1.9245008972987498
+     ],
+     "contaminated": [
+      99.57805907172997,
+      0.7308231255564881
+     ],
+     "clean": [
+      55.28455284552845,
+      5.077234145039348
+     ],
+     "clean_seeds": [
+      60.97560975609756,
+      51.21951219512195,
+      53.65853658536586
+     ]
+    },
+    "ekm_mel": {
+     "all": [
+      81.38888888888889,
+      0.962250448649379
+     ],
+     "contaminated": [
+      93.67088607594935,
+      2.1924693766694645
+     ],
+     "clean": [
+      57.72357723577236,
+      3.725671296712062
+     ],
+     "clean_seeds": [
+      60.97560975609756,
+      53.65853658536586,
+      58.536585365853654
+     ]
+    },
+    "ekm_mfcc": {
+     "all": [
+      79.72222222222221,
+      2.545875386086579
+     ],
+     "contaminated": [
+      94.09282700421942,
+      1.9335762425974004
+     ],
+     "clean": [
+      52.03252032520325,
+      3.725671296712067
+     ],
+     "clean_seeds": [
+      48.78048780487805,
+      56.09756097560976,
+      51.21951219512195
+     ]
+    },
+    "effnet_b0_ensemble": {
+     "all": [
+      90.0,
+      0.0
+     ],
+     "contaminated": [
+      98.73417721518987,
+      0.0
+     ],
+     "clean": [
+      73.17073170731707,
+      0.0
+     ]
+    }
+   }
+  },
+  "cv": {
+   "effnet_b0_mel": {
+    "n_contaminated": 383,
+    "n_clean": 217,
+    "acc_contaminated": 95.56135770234987,
+    "acc_clean": 61.75115207373272,
+    "acc_all": 83.33333333333333
+   },
+   "ekm_mfcc": {
+    "n_contaminated": 383,
+    "n_clean": 217,
+    "acc_contaminated": 93.73368146214099,
+    "acc_clean": 48.38709677419355,
+    "acc_all": 77.33333333333333
+   }
+  },
+  "_clean_test": [
+   "EMIR_Dataset_V1/Tizita/Tizita133.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita144.wav",
+   "EMIR_Dataset_V1/Bati/Bati51.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita54.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita92.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita82.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel84.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita111.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel116.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita13.wav",
+   "EMIR_Dataset_V1/Bati/Bati66.wav",
+   "EMIR_Dataset_V1/Anchihoye/Anchihoye89.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita65.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita161.wav",
+   "EMIR_Dataset_V1/Bati/Bati48.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita90.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita25.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel86.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel58.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel78.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita73.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita116.wav",
+   "EMIR_Dataset_V1/Anchihoye/Anchihoye64.wav",
+   "EMIR_Dataset_V1/Bati/Bati58.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel103.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita122.wav",
+   "EMIR_Dataset_V1/Bati/Bati42.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita58.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita126.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel92.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita69.wav",
+   "EMIR_Dataset_V1/Anchihoye/Anchihoye60.wav",
+   "EMIR_Dataset_V1/Anchihoye/Anchihoye81.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita12.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel88.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita101.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita132.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel100.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita79.wav",
+   "EMIR_Dataset_V1/Anchihoye/Anchihoye42.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita86.wav"
+  ]
+ },
+ "thr20": {
+  "threshold": 20,
+  "n_related_pairs": 438,
+  "n_groups": 344,
+  "n_groups_size_gt1": 126,
+  "n_recordings_in_groups": 382,
+  "group_size_hist": [
+   0,
+   218,
+   28,
+   81,
+   10,
+   2,
+   4,
+   0,
+   0,
+   1
+  ],
+  "n_label_conflict_groups": 3,
+  "label_conflict_groups": [
+   [
+    "Bati100.wav",
+    "Bati106.wav",
+    "Bati3.wav",
+    "Tizita31.wav"
+   ],
+   [
+    "Anchihoye100.wav",
+    "Anchihoye123.wav",
+    "Anchihoye99.wav",
+    "Bati140.wav",
+    "Bati68.wav"
+   ],
+   [
+    "Anchihoye107.wav",
+    "Bati141.wav",
+    "Bati69.wav"
+   ]
+  ],
+  "n_recordings_in_conflict_groups": 12,
+  "split": {
+   "n_test": 120,
+   "n_contaminated": 78,
+   "n_contaminated_train_only": 73,
+   "n_clean": 42,
+   "clean_by_class": {
+    "Tizita": 23,
+    "Bati": 5,
+    "Ambassel": 9,
+    "Anchihoye": 5
+   },
+   "accuracy": {
+    "effnet_b0_mel": {
+     "all": [
+      88.6111111111111,
+      1.2729376930432894
+     ],
+     "contaminated": [
+      98.71794871794873,
+      0.0
+     ],
+     "clean": [
+      69.84126984126983,
+      3.636964837266544
+     ],
+     "clean_seeds": [
+      73.80952380952381,
+      66.66666666666666,
+      69.04761904761905
+     ]
+    },
+    "effnet_b2_mel": {
+     "all": [
+      87.22222222222223,
+      0.9622504486493708
+     ],
+     "contaminated": [
+      99.57264957264958,
+      0.7401926528072058
+     ],
+     "clean": [
+      64.28571428571429,
+      4.123930494211614
+     ],
+     "clean_seeds": [
+      69.04761904761905,
+      61.904761904761905,
+      61.904761904761905
+     ]
+    },
+    "ast": {
+     "all": [
+      85.55555555555556,
+      2.097176232019647
+     ],
+     "contaminated": [
+      100.0,
+      0.0
+     ],
+     "clean": [
+      58.730158730158735,
+      5.991932091484721
+     ],
+     "clean_seeds": [
+      59.523809523809526,
+      52.38095238095239,
+      64.28571428571429
+     ]
+    },
+    "wav2vec2": {
+     "all": [
+      85.27777777777777,
+      2.6787918780535915
+     ],
+     "contaminated": [
+      99.57264957264958,
+      0.7401926528072058
+     ],
+     "clean": [
+      58.73015873015873,
+      7.273929674533072
+     ],
+     "clean_seeds": [
+      57.14285714285714,
+      52.38095238095239,
+      66.66666666666666
+     ]
+    },
+    "hubert": {
+     "all": [
+      84.44444444444444,
+      1.9245008972987498
+     ],
+     "contaminated": [
+      99.57264957264958,
+      0.7401926528072058
+     ],
+     "clean": [
+      56.349206349206355,
+      4.956347617776504
+     ],
+     "clean_seeds": [
+      61.904761904761905,
+      52.38095238095239,
+      54.761904761904766
+     ]
+    },
+    "ekm_mel": {
+     "all": [
+      81.38888888888889,
+      0.962250448649379
+     ],
+     "contaminated": [
+      93.58974358974358,
+      2.2205779584216336
+     ],
+     "clean": [
+      58.730158730158735,
+      3.6369648372665377
+     ],
+     "clean_seeds": [
+      61.904761904761905,
+      54.761904761904766,
+      59.523809523809526
+     ]
+    },
+    "ekm_mfcc": {
+     "all": [
+      79.72222222222221,
+      2.545875386086579
+     ],
+     "contaminated": [
+      94.44444444444446,
+      1.480385305614428
+     ],
+     "clean": [
+      52.38095238095238,
+      4.761904761904763
+     ],
+     "clean_seeds": [
+      47.61904761904761,
+      57.14285714285714,
+      52.38095238095239
+     ]
+    },
+    "effnet_b0_ensemble": {
+     "all": [
+      90.0,
+      0.0
+     ],
+     "contaminated": [
+      98.71794871794873,
+      0.0
+     ],
+     "clean": [
+      73.80952380952381,
+      0.0
+     ]
+    }
+   }
+  },
+  "cv": {
+   "effnet_b0_mel": {
+    "n_contaminated": 367,
+    "n_clean": 233,
+    "acc_contaminated": 96.73024523160763,
+    "acc_clean": 62.23175965665236,
+    "acc_all": 83.33333333333333
+   },
+   "ekm_mfcc": {
+    "n_contaminated": 367,
+    "n_clean": 233,
+    "acc_contaminated": 95.36784741144415,
+    "acc_clean": 48.927038626609445,
+    "acc_all": 77.33333333333333
+   }
+  },
+  "_clean_test": [
+   "EMIR_Dataset_V1/Tizita/Tizita133.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita144.wav",
+   "EMIR_Dataset_V1/Bati/Bati51.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita54.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita92.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita82.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel84.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita111.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel116.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita13.wav",
+   "EMIR_Dataset_V1/Bati/Bati66.wav",
+   "EMIR_Dataset_V1/Anchihoye/Anchihoye89.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita65.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita161.wav",
+   "EMIR_Dataset_V1/Bati/Bati48.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita90.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita25.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel86.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel58.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel78.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita73.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita116.wav",
+   "EMIR_Dataset_V1/Anchihoye/Anchihoye64.wav",
+   "EMIR_Dataset_V1/Bati/Bati58.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel103.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita122.wav",
+   "EMIR_Dataset_V1/Bati/Bati42.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita58.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita126.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel92.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita69.wav",
+   "EMIR_Dataset_V1/Anchihoye/Anchihoye60.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita100.wav",
+   "EMIR_Dataset_V1/Anchihoye/Anchihoye81.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita12.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel88.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita101.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita132.wav",
+   "EMIR_Dataset_V1/Ambassel/Ambassel100.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita79.wav",
+   "EMIR_Dataset_V1/Anchihoye/Anchihoye42.wav",
+   "EMIR_Dataset_V1/Tizita/Tizita86.wav"
+  ]
+ }
+}

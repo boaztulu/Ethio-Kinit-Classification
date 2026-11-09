@@ -1,0 +1,5402 @@
+[
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita1.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita10.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita100.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita101.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita102.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita103.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita104.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita105.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita106.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita107.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita108.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita109.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita11.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita110.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita111.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita112.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita113.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita114.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita115.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita116.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita117.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita118.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita119.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita12.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita120.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita121.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita122.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita123.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita124.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita125.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita126.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita127.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita128.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita129.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita13.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita130.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita131.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita132.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita133.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita134.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita135.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita136.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita137.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita138.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita139.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita14.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita140.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita141.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita142.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita143.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita144.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita145.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita146.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita147.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita148.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita149.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita15.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita150.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita151.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita152.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita153.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita154.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita155.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita156.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita157.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita158.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita159.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita16.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita160.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita161.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita162.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita17.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita18.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita19.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita2.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita20.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita21.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita22.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita23.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita24.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita25.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita26.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita27.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita28.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita29.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita3.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita30.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita31.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita32.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita33.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita34.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita35.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita36.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita37.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita38.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita39.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita4.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita40.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita41.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita42.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita43.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita44.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita45.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita46.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita47.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita48.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita49.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita5.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita50.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita51.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita52.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita53.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita54.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita55.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita56.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita57.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita58.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita59.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita6.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita60.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita61.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita62.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita63.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita64.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita65.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita66.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita67.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita68.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita69.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita7.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita70.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita71.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita72.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita73.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita74.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita75.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita76.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita77.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita78.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita79.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita8.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita80.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita81.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita82.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita83.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita84.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita85.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita86.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita87.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita88.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita89.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita9.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita90.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita91.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita92.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita93.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita94.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita95.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita96.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita97.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita98.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Tizita/Tizita99.wav",
+    "class_name": "Tizita",
+    "class_idx": 0,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati1.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati10.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati100.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati101.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati102.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati103.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati104.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati105.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati106.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati107.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati108.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati109.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati11.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati110.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati111.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati112.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati113.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati114.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati115.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati116.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati117.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati118.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati119.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati12.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati120.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati121.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati122.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati123.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati124.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati125.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati126.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati127.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati128.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati129.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati13.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati130.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati131.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati132.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati133.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati134.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati135.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati136.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati137.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati138.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati139.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati14.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati140.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati141.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati142.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati143.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati144.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati15.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati16.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati17.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati18.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati19.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati2.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati20.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati21.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati22.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati23.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati24.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati25.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati26.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati27.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati28.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati29.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati3.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati30.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati31.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati32.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati33.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati34.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati35.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati36.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati37.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati38.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati39.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati4.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati40.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati41.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati42.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati43.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati44.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati45.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati46.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati47.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati48.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati49.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati5.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati50.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati51.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati52.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati53.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati54.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati55.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati56.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati57.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati58.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati59.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati6.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati60.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati61.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati62.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati63.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati64.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati65.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati66.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati67.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati68.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati69.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati7.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati70.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati71.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati72.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati73.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati74.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati75.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati76.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati77.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati78.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati79.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati8.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati80.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati81.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati82.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati83.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati84.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati85.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati86.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati87.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati88.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati89.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati9.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati90.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati91.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati92.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati93.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati94.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati95.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati96.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati97.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati98.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Bati/Bati99.wav",
+    "class_name": "Bati",
+    "class_idx": 1,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel1.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel10.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel100.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel101.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel102.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel103.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel104.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel105.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel106.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel107.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel108.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel109.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel11.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel110.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel111.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel112.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel113.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel114.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel115.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel116.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel117.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel118.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel119.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel12.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel120.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel121.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel122.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel123.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel124.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel125.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel126.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel127.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel128.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel129.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel13.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel130.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel131.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel132.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel133.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel134.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel135.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel136.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel137.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel138.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel139.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel14.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel140.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel141.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel142.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel143.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel144.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel145.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel146.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel147.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel15.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel16.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel17.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel18.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel19.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel2.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel20.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel21.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel22.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel23.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel24.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel25.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel26.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel27.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel28.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel29.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel3.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel30.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel31.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel32.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel33.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel34.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel35.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel36.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel37.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel38.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel39.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel4.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel40.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel41.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel42.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel43.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel44.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel45.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel46.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel47.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel48.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel49.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel5.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel50.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel51.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel52.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel53.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel54.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel55.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel56.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel57.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel58.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel59.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel6.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel60.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel61.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel62.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel63.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel64.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel65.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel66.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel67.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel68.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel69.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel7.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel70.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel71.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel72.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel73.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel74.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel75.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel76.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel77.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel78.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel79.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel8.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel80.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel81.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel82.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel83.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel84.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel85.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel86.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel87.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel88.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel89.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel9.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel90.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel91.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel92.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel93.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel94.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel95.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel96.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel97.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel98.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Ambassel/Ambassel99.wav",
+    "class_name": "Ambassel",
+    "class_idx": 2,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye1.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye10.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye100.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye101.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye102.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye103.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye104.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye105.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye106.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye107.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye108.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye109.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye11.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye110.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye111.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye112.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye113.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye114.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye115.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye116.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye117.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye118.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye119.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye12.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye120.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye121.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye122.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye123.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye124.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye125.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye126.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye127.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye128.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye129.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye13.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye130.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye131.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye132.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye133.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye134.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye135.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye136.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye137.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye138.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye139.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye14.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye140.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye141.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye142.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye143.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye144.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye145.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye146.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye147.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye15.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye16.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye17.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye18.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye19.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye2.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye20.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye21.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye22.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye23.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye24.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye25.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye26.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye27.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye28.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye29.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye3.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye30.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye31.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye32.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye33.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye34.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye35.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye36.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye37.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye38.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye39.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye4.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye40.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye41.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye42.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye43.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye44.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye45.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye46.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye47.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye48.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye49.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye5.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye50.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye51.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye52.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye53.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye54.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye55.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye56.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye57.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye58.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye59.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye6.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye60.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye61.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye62.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye63.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye64.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye65.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye66.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye67.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye68.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye69.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye7.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye70.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye71.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye72.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye73.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye74.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye75.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye76.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye77.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye78.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye79.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye8.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye80.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye81.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye82.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye83.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye84.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye85.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye86.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye87.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye88.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye89.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye9.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye90.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye91.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye92.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye93.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye94.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye95.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye96.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye97.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye98.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 44100,
+    "n_samples": 1323000,
+    "n_channels": 1
+  },
+  {
+    "path": "EMIR_Dataset_V1/Anchihoye/Anchihoye99.wav",
+    "class_name": "Anchihoye",
+    "class_idx": 3,
+    "duration_sec": 30.0,
+    "samplerate": 16000,
+    "n_samples": 480000,
+    "n_channels": 1
+  }
+]

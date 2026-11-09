@@ -1,0 +1,7869 @@
+{
+  "tag": "ekm_mfcc_chunk_s7777",
+  "model": "ekm_mfcc",
+  "seed": 7777,
+  "n_params": 225028,
+  "best_val": {
+    "epoch": 91,
+    "val_macro_f1": 0.9228985813079909,
+    "val_chunk_acc": 0.922739244951712,
+    "val_clip_acc": 0.962890625,
+    "val_clip_f1": 0.9628165021265671
+  },
+  "test": {
+    "chunk_acc": 0.9297629499561019,
+    "chunk_macro_f1": 0.9296844456362328,
+    "clip_acc": 0.9697479009628296,
+    "clip_macro_f1": 0.9695667751355905,
+    "n_clips": 595,
+    "rows": [
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita1.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          1.5616416931152344e-05,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita10.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          1.0132789611816406e-06,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita100.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.7470703125,
+          0.198974609375,
+          0.001255035400390625,
+          0.052703857421875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita101.wav",
+        "y": 0,
+        "pred": 1,
+        "probs": [
+          0.458984375,
+          0.5205078125,
+          0.0201873779296875,
+          0.0005216598510742188
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita102.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.8486328125,
+          0.1507568359375,
+          0.00018322467803955078,
+          0.00010788440704345703
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita103.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.82470703125,
+          0.01410675048828125,
+          0.1064453125,
+          0.054901123046875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita104.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.8974609375,
+          0.003509521484375,
+          0.07891845703125,
+          0.0199127197265625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita105.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          5.066394805908203e-06,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita106.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.8291015625,
+          0.005859375,
+          0.004241943359375,
+          0.16064453125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita107.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.466552734375,
+          0.3544921875,
+          0.083740234375,
+          0.09515380859375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita108.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.7861328125,
+          0.046966552734375,
+          1.1920928955078125e-07,
+          0.1666259765625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita109.wav",
+        "y": 0,
+        "pred": 2,
+        "probs": [
+          0.1754150390625,
+          0.00234222412109375,
+          0.63671875,
+          0.1856689453125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita11.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita110.wav",
+        "y": 0,
+        "pred": 1,
+        "probs": [
+          0.139404296875,
+          0.82080078125,
+          0.003932952880859375,
+          0.035980224609375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita111.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9248046875,
+          0.04522705078125,
+          0.0296630859375,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita112.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9990234375,
+          3.826618194580078e-05,
+          0.0006880760192871094,
+          0.00040078163146972656
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita113.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita114.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita115.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita116.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita117.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita118.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita119.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.95361328125,
+          6.771087646484375e-05,
+          0.0,
+          0.04638671875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita12.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9921875,
+          0.001033782958984375,
+          0.006744384765625,
+          3.993511199951172e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita120.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita121.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          5.960464477539063e-08
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita122.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita123.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita124.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9970703125,
+          0.00278472900390625,
+          0.00020492076873779297,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita125.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          5.960464477539063e-08,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita126.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita127.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9462890625,
+          0.044647216796875,
+          0.00908660888671875,
+          4.708766937255859e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita128.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99853515625,
+          9.5367431640625e-07,
+          0.001251220703125,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita129.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita13.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9912109375,
+          0.007320404052734375,
+          0.0012788772583007812,
+          9.5367431640625e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita130.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.828125,
+          0.0016889572143554688,
+          0.009552001953125,
+          0.160888671875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita131.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.8037109375,
+          0.0008382797241210938,
+          0.1666259765625,
+          0.0286102294921875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita132.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.81591796875,
+          0.0006055831909179688,
+          0.1363525390625,
+          0.047119140625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita133.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9990234375,
+          6.794929504394531e-06,
+          5.364418029785156e-07,
+          0.0007576942443847656
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita134.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.72705078125,
+          2.7179718017578125e-05,
+          0.27294921875,
+          3.3915042877197266e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita135.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          2.0265579223632812e-06,
+          2.944469451904297e-05,
+          0.0001017451286315918
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita136.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9912109375,
+          0.00872039794921875,
+          0.0002288818359375,
+          6.848573684692383e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita137.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9111328125,
+          0.08905029296875,
+          2.8967857360839844e-05,
+          4.1484832763671875e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita138.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          4.291534423828125e-06,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita139.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          2.384185791015625e-07,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita14.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99951171875,
+          5.900859832763672e-06,
+          0.0005617141723632812,
+          4.76837158203125e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita140.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.93408203125,
+          1.3470649719238281e-05,
+          0.0654296875,
+          0.0005159378051757812
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita141.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          8.344650268554688e-07,
+          1.1920928955078125e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita142.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          5.960464477539063e-08,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita143.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          5.960464477539063e-08,
+          0.0,
+          5.960464477539063e-08
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita144.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99951171875,
+          0.0004916191101074219,
+          2.562999725341797e-06,
+          5.7578086853027344e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita145.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9970703125,
+          0.003143310546875,
+          8.153915405273438e-05,
+          2.6702880859375e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita146.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.76171875,
+          0.00785064697265625,
+          0.006031036376953125,
+          0.2244873046875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita147.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99658203125,
+          0.0,
+          0.0036144256591796875,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita148.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.8671875,
+          0.09832763671875,
+          0.032196044921875,
+          0.0023937225341796875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita149.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9912109375,
+          0.0013990402221679688,
+          0.0025844573974609375,
+          0.004550933837890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita15.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.7744140625,
+          1.1920928955078125e-06,
+          0.2257080078125,
+          1.1920928955078125e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita150.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.00014066696166992188,
+          7.748603820800781e-07,
+          1.7881393432617188e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita151.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          4.8995018005371094e-05,
+          1.2516975402832031e-06,
+          0.00023126602172851562
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita152.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99951171875,
+          0.00027871131896972656,
+          9.47713851928711e-06,
+          9.745359420776367e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita153.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.7724609375,
+          0.0029506683349609375,
+          0.2242431640625,
+          0.0002703666687011719
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita154.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9990234375,
+          0.0011281967163085938,
+          2.0265579223632812e-06,
+          0.0001519918441772461
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita155.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.00010496377944946289,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita156.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          6.556510925292969e-07,
+          5.364418029785156e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita157.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita158.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99658203125,
+          0.0003426074981689453,
+          0.00021982192993164062,
+          0.0026111602783203125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita159.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita16.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.89208984375,
+          0.006015777587890625,
+          0.0012969970703125,
+          0.10040283203125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita160.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.00017249584197998047,
+          5.7220458984375e-06,
+          5.960464477539063e-08
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita161.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.86181640625,
+          0.0006666183471679688,
+          5.960464477539063e-08,
+          0.1373291015625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita162.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9501953125,
+          0.0234375,
+          4.172325134277344e-06,
+          0.0263824462890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita17.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          1.0609626770019531e-05,
+          1.5497207641601562e-06,
+          8.821487426757812e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita18.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.98681640625,
+          0.0063018798828125,
+          0.007061004638671875,
+          2.086162567138672e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita19.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9716796875,
+          0.00032711029052734375,
+          0.02520751953125,
+          0.002628326416015625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita2.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99267578125,
+          0.00640869140625,
+          5.960464477539063e-08,
+          0.0008931159973144531
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita20.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9736328125,
+          0.02032470703125,
+          0.00586700439453125,
+          0.0002262592315673828
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita21.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.97705078125,
+          0.001766204833984375,
+          0.019927978515625,
+          0.0014677047729492188
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita22.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.98974609375,
+          0.0016164779663085938,
+          0.00043845176696777344,
+          0.00806427001953125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita23.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99951171875,
+          0.0001595020294189453,
+          1.1920928955078125e-07,
+          0.0004229545593261719
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita24.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9873046875,
+          0.00960540771484375,
+          0.0032329559326171875,
+          6.079673767089844e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita25.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.70751953125,
+          0.2384033203125,
+          0.048614501953125,
+          0.00553131103515625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita26.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9970703125,
+          3.039836883544922e-06,
+          0.0022296905517578125,
+          0.0005393028259277344
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita27.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.7099609375,
+          0.00608062744140625,
+          0.256591796875,
+          0.0269927978515625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita28.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.95458984375,
+          0.04205322265625,
+          0.00191497802734375,
+          0.001239776611328125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita29.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99951171875,
+          0.0,
+          0.0005927085876464844,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita3.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.78564453125,
+          0.01131439208984375,
+          0.17041015625,
+          0.032867431640625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita30.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.998046875,
+          0.0003495216369628906,
+          0.0011730194091796875,
+          0.000644683837890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita31.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.6923828125,
+          0.30712890625,
+          0.0008521080017089844,
+          4.8041343688964844e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita32.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.95263671875,
+          2.0265579223632812e-06,
+          0.04730224609375,
+          4.947185516357422e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita33.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.00022494792938232422,
+          2.9802322387695312e-06,
+          5.543231964111328e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita34.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.8486328125,
+          0.1138916015625,
+          0.031463623046875,
+          0.00611114501953125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita35.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          9.5367431640625e-07,
+          1.1920928955078125e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita36.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.93896484375,
+          0.00109100341796875,
+          0.0596923828125,
+          1.3709068298339844e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita37.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.97802734375,
+          0.0205078125,
+          0.0004801750183105469,
+          0.0011224746704101562
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita38.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.75830078125,
+          0.0099029541015625,
+          0.2125244140625,
+          0.019317626953125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita39.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.98828125,
+          0.007488250732421875,
+          0.0036907196044921875,
+          0.0005321502685546875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita4.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          8.803606033325195e-05,
+          8.14199447631836e-05,
+          1.3887882232666016e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita40.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita41.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99365234375,
+          0.00652313232421875,
+          8.344650268554688e-06,
+          1.6689300537109375e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita42.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9921875,
+          0.007366180419921875,
+          0.0002206563949584961,
+          0.0004131793975830078
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita43.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.974609375,
+          0.0211029052734375,
+          0.0009765625,
+          0.00322723388671875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita44.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          2.0265579223632812e-05,
+          1.4185905456542969e-05,
+          8.338689804077148e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita45.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.994140625,
+          0.0053253173828125,
+          0.0002472400665283203,
+          0.00025916099548339844
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita46.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.95703125,
+          0.0283966064453125,
+          0.01468658447265625,
+          0.0002288818359375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita47.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.57470703125,
+          0.1597900390625,
+          0.26513671875,
+          0.0004963874816894531
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita48.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9990234375,
+          0.0007987022399902344,
+          2.9802322387695312e-06,
+          0.00014078617095947266
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita49.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.998046875,
+          0.0018978118896484375,
+          1.7881393432617188e-07,
+          8.344650268554688e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita5.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          2.4437904357910156e-06,
+          5.9604644775390625e-06,
+          0.0002789497375488281
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita50.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          4.649162292480469e-06,
+          0.00011652708053588867,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita51.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.966796875,
+          3.540515899658203e-05,
+          0.033203125,
+          1.1920928955078125e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita52.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.8359375,
+          0.1328125,
+          0.031494140625,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita53.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita54.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita55.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita56.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita57.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          7.003545761108398e-05,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita58.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita59.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          5.960464477539063e-08,
+          1.4901161193847656e-06,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita6.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9990234375,
+          0.0007371902465820312,
+          1.7523765563964844e-05,
+          0.0004963874816894531
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita60.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita61.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          5.960464477539063e-08,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita62.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99462890625,
+          0.0005612373352050781,
+          0.00023627281188964844,
+          0.004337310791015625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita63.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita64.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita65.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99951171875,
+          0.0004642009735107422,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita66.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita67.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99951171875,
+          0.00022470951080322266,
+          0.0001596212387084961,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita68.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9990234375,
+          2.205371856689453e-06,
+          0.0007348060607910156,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita69.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita7.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9560546875,
+          0.002117156982421875,
+          0.03448486328125,
+          0.0071868896484375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita70.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.998046875,
+          0.0,
+          0.0018186569213867188,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita71.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9765625,
+          0.002460479736328125,
+          0.0208892822265625,
+          3.5762786865234375e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita72.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita73.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.84423828125,
+          0.095947265625,
+          0.01013946533203125,
+          0.049560546875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita74.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.8291015625,
+          0.0054473876953125,
+          0.0004000663757324219,
+          0.164794921875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita75.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9599609375,
+          0.0011272430419921875,
+          0.00311279296875,
+          0.035980224609375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita76.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99853515625,
+          0.000988006591796875,
+          4.857778549194336e-05,
+          0.0003914833068847656
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita77.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.880859375,
+          0.039031982421875,
+          0.01222991943359375,
+          0.06781005859375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita78.wav",
+        "y": 0,
+        "pred": 1,
+        "probs": [
+          0.386962890625,
+          0.41455078125,
+          0.195068359375,
+          0.0031566619873046875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita79.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.97900390625,
+          0.00027060508728027344,
+          0.02044677734375,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita8.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9990234375,
+          0.0009908676147460938,
+          2.9802322387695312e-06,
+          0.0001277923583984375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita80.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.89453125,
+          0.0006833076477050781,
+          0.10400390625,
+          0.0010128021240234375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita81.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.6669921875,
+          0.00017774105072021484,
+          0.3271484375,
+          0.006023406982421875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita82.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita83.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.85791015625,
+          0.00209808349609375,
+          0.0008025169372558594,
+          0.1392822265625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita84.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9482421875,
+          0.03973388671875,
+          0.01092529296875,
+          0.0009813308715820312
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita85.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99853515625,
+          0.0014553070068359375,
+          1.609325408935547e-05,
+          6.198883056640625e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita86.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.701171875,
+          0.0958251953125,
+          0.06591796875,
+          0.136962890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita87.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.99951171875,
+          5.960464477539063e-08,
+          0.0006937980651855469,
+          8.225440979003906e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita88.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9990234375,
+          6.824731826782227e-05,
+          0.0002548694610595703,
+          0.0005192756652832031
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita89.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.9912109375,
+          0.0016813278198242188,
+          0.00717926025390625,
+          5.614757537841797e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita9.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.951171875,
+          0.0269927978515625,
+          0.005828857421875,
+          0.015869140625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita90.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.77880859375,
+          0.2156982421875,
+          0.0029544830322265625,
+          0.00244140625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita91.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.978515625,
+          0.011932373046875,
+          0.0081329345703125,
+          0.0011129379272460938
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita92.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.8203125,
+          0.1553955078125,
+          0.0177154541015625,
+          0.006595611572265625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita93.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.900390625,
+          0.00592803955078125,
+          0.0804443359375,
+          0.01297760009765625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita94.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.962890625,
+          3.707408905029297e-05,
+          0.0016927719116210938,
+          0.035430908203125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita95.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.8115234375,
+          0.00152587890625,
+          0.0711669921875,
+          0.11566162109375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita96.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.6572265625,
+          0.2440185546875,
+          0.09295654296875,
+          0.005889892578125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita97.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.58935546875,
+          0.333984375,
+          0.0038356781005859375,
+          0.0731201171875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita98.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.88330078125,
+          0.00897979736328125,
+          0.10736083984375,
+          0.0003387928009033203
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Tizita/Tizita99.wav",
+        "y": 0,
+        "pred": 0,
+        "probs": [
+          0.5673828125,
+          0.07269287109375,
+          2.6106834411621094e-05,
+          0.35986328125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati1.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0082244873046875,
+          0.986328125,
+          0.000637054443359375,
+          0.005035400390625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati10.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0015954971313476562,
+          0.99755859375,
+          0.0009074211120605469,
+          5.960464477539063e-08
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati100.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.2430419921875,
+          0.68701171875,
+          0.0007295608520507812,
+          0.0692138671875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati101.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0035686492919921875,
+          0.9931640625,
+          0.00037407875061035156,
+          0.0028247833251953125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati102.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati103.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0265655517578125,
+          0.97216796875,
+          0.0001233816146850586,
+          0.0010251998901367188
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati104.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          5.882978439331055e-05,
+          1.0,
+          2.187490463256836e-05,
+          1.8477439880371094e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati105.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.01432037353515625,
+          0.98583984375,
+          5.960464477539062e-07,
+          5.960464477539063e-08
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati106.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.299072265625,
+          0.630859375,
+          0.00077056884765625,
+          0.06927490234375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati107.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0002913475036621094,
+          0.998046875,
+          0.0016536712646484375,
+          0.00016248226165771484
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati108.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.27685546875,
+          0.7119140625,
+          0.00019121170043945312,
+          0.010894775390625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati109.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.000804901123046875,
+          0.9873046875,
+          0.010467529296875,
+          0.0012874603271484375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati11.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.046295166015625,
+          0.9013671875,
+          0.0279083251953125,
+          0.0243072509765625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati110.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          1.2636184692382812e-05,
+          1.0,
+          2.47955322265625e-05,
+          1.7881393432617188e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati111.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0157623291015625,
+          0.9716796875,
+          0.0116119384765625,
+          0.0006680488586425781
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati112.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          5.543231964111328e-06,
+          0.9990234375,
+          0.0007753372192382812,
+          1.33514404296875e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati113.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.029083251953125,
+          0.96923828125,
+          0.0015058517456054688,
+          2.384185791015625e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati114.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0007004737854003906,
+          0.9990234375,
+          2.390146255493164e-05,
+          3.4570693969726562e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati115.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          1.2516975402832031e-05,
+          1.0,
+          0.0001150369644165039,
+          9.5367431640625e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati116.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.00010204315185546875,
+          1.0,
+          0.0,
+          5.960464477539063e-08
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati117.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.001415252685546875,
+          0.990234375,
+          0.0071563720703125,
+          0.00106048583984375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati118.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.2237548828125,
+          0.76611328125,
+          0.00748443603515625,
+          0.002574920654296875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati119.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0,
+          1.0,
+          1.8477439880371094e-06,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati12.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.00868988037109375,
+          0.90234375,
+          0.0599365234375,
+          0.029266357421875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati120.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0018053054809570312,
+          0.998046875,
+          4.7087669372558594e-05,
+          9.66787338256836e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati121.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          4.738569259643555e-05,
+          0.99853515625,
+          0.0012969970703125,
+          6.496906280517578e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati122.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.032684326171875,
+          0.96435546875,
+          0.0018739700317382812,
+          0.0010747909545898438
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati123.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.00028014183044433594,
+          0.998046875,
+          0.0004494190216064453,
+          0.001178741455078125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati124.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          5.269050598144531e-05,
+          0.9990234375,
+          1.6689300537109375e-06,
+          0.001201629638671875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati125.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.017974853515625,
+          0.953125,
+          0.0006575584411621094,
+          0.0284423828125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati126.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          5.960464477539063e-08,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati127.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          7.748603820800781e-07,
+          1.0,
+          0.0,
+          2.384185791015625e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati128.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.00476837158203125,
+          0.978515625,
+          0.01523590087890625,
+          0.0016622543334960938
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati129.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati13.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.291015625,
+          0.6708984375,
+          0.0264434814453125,
+          0.0118560791015625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati130.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.031768798828125,
+          0.9677734375,
+          0.00012254714965820312,
+          9.739398956298828e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati131.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0013875961303710938,
+          0.978515625,
+          0.0178680419921875,
+          0.0025234222412109375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati132.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.002887725830078125,
+          0.958984375,
+          0.033111572265625,
+          0.00494384765625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati133.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.03070068359375,
+          0.96875,
+          0.00039458274841308594,
+          0.00014770030975341797
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati134.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          5.960464477539063e-08,
+          1.0,
+          9.5367431640625e-06,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati136.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.031524658203125,
+          0.94482421875,
+          0.0224456787109375,
+          0.0012989044189453125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati137.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.00027680397033691406,
+          0.998046875,
+          0.0012722015380859375,
+          0.00021588802337646484
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati138.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0009293556213378906,
+          0.9990234375,
+          1.5497207641601562e-06,
+          1.7881393432617188e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati139.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.050201416015625,
+          0.79345703125,
+          0.1485595703125,
+          0.0076446533203125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati14.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          4.684925079345703e-05,
+          0.9990234375,
+          5.841255187988281e-06,
+          0.0008726119995117188
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati140.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.019134521484375,
+          0.58447265625,
+          0.0202178955078125,
+          0.376220703125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati141.wav",
+        "y": 1,
+        "pred": 3,
+        "probs": [
+          0.0007686614990234375,
+          0.317138671875,
+          0.0003390312194824219,
+          0.681640625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati142.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          1.1920928955078125e-07,
+          1.0,
+          0.0,
+          4.76837158203125e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati143.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.017364501953125,
+          0.9404296875,
+          0.041778564453125,
+          0.00017881393432617188
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati144.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0,
+          1.0,
+          2.3245811462402344e-06,
+          0.0002467632293701172
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati15.wav",
+        "y": 1,
+        "pred": 3,
+        "probs": [
+          0.012176513671875,
+          0.319091796875,
+          0.1268310546875,
+          0.5419921875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati16.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.198974609375,
+          0.62451171875,
+          0.162353515625,
+          0.0142822265625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati17.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.1923828125,
+          0.80517578125,
+          0.0017566680908203125,
+          0.0006394386291503906
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati18.wav",
+        "y": 1,
+        "pred": 2,
+        "probs": [
+          0.01282501220703125,
+          0.384521484375,
+          0.6025390625,
+          1.3470649719238281e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati19.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.01226043701171875,
+          0.9873046875,
+          0.00010561943054199219,
+          0.0002224445343017578
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati2.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.00490570068359375,
+          0.91552734375,
+          0.07830810546875,
+          0.001331329345703125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati20.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0006957054138183594,
+          0.998046875,
+          0.0012502670288085938,
+          0.00017201900482177734
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati21.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0219268798828125,
+          0.94921875,
+          0.005035400390625,
+          0.0239105224609375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati22.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0,
+          1.0,
+          0.0,
+          5.960464477539063e-08
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati23.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.004817962646484375,
+          0.9853515625,
+          0.0078125,
+          0.0020656585693359375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati24.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.301513671875,
+          0.67919921875,
+          0.01483154296875,
+          0.004421234130859375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati25.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          6.556510925292969e-07,
+          1.0,
+          0.00013065338134765625,
+          3.993511199951172e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati26.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.00030684471130371094,
+          0.9970703125,
+          0.000682830810546875,
+          0.0017938613891601562
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati27.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.083740234375,
+          0.90625,
+          0.006374359130859375,
+          0.0037174224853515625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati28.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.00473785400390625,
+          0.93212890625,
+          0.0550537109375,
+          0.00817108154296875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati29.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          6.556510925292969e-07,
+          0.99853515625,
+          0.0015058517456054688,
+          3.5762786865234375e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati3.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.2421875,
+          0.68798828125,
+          0.0005741119384765625,
+          0.069091796875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati30.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.05572509765625,
+          0.93701171875,
+          0.002910614013671875,
+          0.00428009033203125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati31.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          1.9073486328125e-06,
+          0.61474609375,
+          0.385009765625,
+          1.2516975402832031e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati32.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          1.1920928955078125e-07,
+          1.0,
+          0.0,
+          0.00023853778839111328
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati33.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.004425048828125,
+          0.98974609375,
+          0.0016145706176757812,
+          0.00426483154296875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati34.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          2.0265579223632812e-06,
+          1.0,
+          5.960464477539063e-08,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati35.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0011205673217773438,
+          0.99462890625,
+          0.0037441253662109375,
+          0.0006709098815917969
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati36.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          5.960464477539063e-08,
+          1.0,
+          5.0067901611328125e-06,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati37.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati38.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0095672607421875,
+          0.6279296875,
+          0.009429931640625,
+          0.353271484375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati39.wav",
+        "y": 1,
+        "pred": 0,
+        "probs": [
+          0.8232421875,
+          0.0440673828125,
+          0.0188751220703125,
+          0.11395263671875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati4.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0004246234893798828,
+          0.99609375,
+          0.00328826904296875,
+          0.000324249267578125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati40.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.28515625,
+          0.462646484375,
+          0.251708984375,
+          0.0005621910095214844
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati41.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          8.094310760498047e-05,
+          1.0,
+          5.602836608886719e-06,
+          1.1086463928222656e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati42.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.10113525390625,
+          0.50048828125,
+          0.00022554397583007812,
+          0.398193359375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati43.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.1448974609375,
+          0.4951171875,
+          0.2353515625,
+          0.12445068359375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati44.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.041229248046875,
+          0.9443359375,
+          0.01084136962890625,
+          0.0031833648681640625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati45.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          1.6689300537109375e-06,
+          1.0,
+          1.5139579772949219e-05,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati46.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.10687255859375,
+          0.8623046875,
+          0.0038700103759765625,
+          0.0268402099609375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati47.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.1263427734375,
+          0.86572265625,
+          0.00043320655822753906,
+          0.007465362548828125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati48.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0005159378051757812,
+          0.99169921875,
+          0.005130767822265625,
+          0.0026340484619140625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati49.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          1.4543533325195312e-05,
+          0.85888671875,
+          0.1412353515625,
+          4.035234451293945e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati5.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0007681846618652344,
+          0.99755859375,
+          0.00011897087097167969,
+          0.0014181137084960938
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati50.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.00014507770538330078,
+          0.98779296875,
+          0.00010150671005249023,
+          0.01207733154296875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati51.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0406494140625,
+          0.958984375,
+          0.0001138448715209961,
+          0.0001500844955444336
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati52.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.003971099853515625,
+          0.9931640625,
+          0.001373291015625,
+          0.0011548995971679688
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati53.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0001837015151977539,
+          0.9990234375,
+          0.0002677440643310547,
+          0.00026702880859375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati54.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.29833984375,
+          0.70166015625,
+          0.00016391277313232422,
+          0.00010693073272705078
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati55.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.3955078125,
+          0.5966796875,
+          0.0044097900390625,
+          0.003452301025390625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati56.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.01067352294921875,
+          0.9873046875,
+          0.0007500648498535156,
+          0.0010509490966796875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati57.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.002269744873046875,
+          0.71337890625,
+          0.27978515625,
+          0.004444122314453125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati58.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.005615234375,
+          0.603515625,
+          0.0012350082397460938,
+          0.3896484375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati59.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0806884765625,
+          0.90283203125,
+          0.00959014892578125,
+          0.006938934326171875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati6.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.004146575927734375,
+          0.93505859375,
+          0.0535888671875,
+          0.00720977783203125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati60.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0,
+          1.0,
+          5.960464477539063e-08,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati61.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.009521484375,
+          0.990234375,
+          4.76837158203125e-07,
+          4.184246063232422e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati62.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0037631988525390625,
+          0.99609375,
+          2.568960189819336e-05,
+          3.5762786865234375e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati63.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.09283447265625,
+          0.44677734375,
+          0.2210693359375,
+          0.2393798828125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati64.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.061737060546875,
+          0.93798828125,
+          3.260374069213867e-05,
+          0.00015354156494140625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati65.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0462646484375,
+          0.9521484375,
+          0.0009717941284179688,
+          0.0007681846618652344
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati66.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.02081298828125,
+          0.64501953125,
+          0.328369140625,
+          0.00580596923828125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati67.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.017578125,
+          0.958984375,
+          0.0008945465087890625,
+          0.0226898193359375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati68.wav",
+        "y": 1,
+        "pred": 3,
+        "probs": [
+          0.00010198354721069336,
+          0.283935546875,
+          0.0194854736328125,
+          0.6962890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati69.wav",
+        "y": 1,
+        "pred": 3,
+        "probs": [
+          0.0011434555053710938,
+          0.48095703125,
+          0.0005383491516113281,
+          0.517578125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati7.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          7.152557373046875e-07,
+          0.9990234375,
+          0.0006961822509765625,
+          1.8835067749023438e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati70.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          5.960464477539063e-08,
+          1.0,
+          0.0,
+          5.960464477539062e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati71.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0006012916564941406,
+          0.99951171875,
+          0.0,
+          1.3709068298339844e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati72.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0016326904296875,
+          0.998046875,
+          0.0004680156707763672,
+          3.5762786865234375e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati73.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.01467132568359375,
+          0.9853515625,
+          6.4849853515625e-05,
+          0.0001157522201538086
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati74.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.007122039794921875,
+          0.89013671875,
+          0.09857177734375,
+          0.00437164306640625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati75.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.261474609375,
+          0.50537109375,
+          0.233154296875,
+          2.7418136596679688e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati76.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          2.6464462280273438e-05,
+          0.60986328125,
+          0.2486572265625,
+          0.1412353515625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati77.wav",
+        "y": 1,
+        "pred": 0,
+        "probs": [
+          0.440673828125,
+          0.418212890625,
+          0.0024127960205078125,
+          0.1387939453125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati78.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0496826171875,
+          0.947265625,
+          0.00021719932556152344,
+          0.0026302337646484375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati79.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.009796142578125,
+          0.98974609375,
+          0.00029587745666503906,
+          0.00010722875595092773
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati8.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.07537841796875,
+          0.7451171875,
+          0.1536865234375,
+          0.026123046875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati80.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0114898681640625,
+          0.98046875,
+          0.0003445148468017578,
+          0.007568359375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati81.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.00024771690368652344,
+          0.99951171875,
+          8.702278137207031e-06,
+          0.00036597251892089844
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati82.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0036182403564453125,
+          0.9853515625,
+          3.5881996154785156e-05,
+          0.01104736328125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati83.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0003085136413574219,
+          0.99951171875,
+          2.580881118774414e-05,
+          8.225440979003906e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati84.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.000812530517578125,
+          0.9990234375,
+          2.300739288330078e-05,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati85.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          3.6954879760742188e-06,
+          1.0,
+          0.0,
+          1.2278556823730469e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati86.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0102691650390625,
+          0.98486328125,
+          0.00017714500427246094,
+          0.004810333251953125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati87.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.150390625,
+          0.8388671875,
+          0.00925445556640625,
+          0.0016946792602539062
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati88.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          4.172325134277344e-07,
+          1.0,
+          2.6702880859375e-05,
+          1.0728836059570312e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati89.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          3.790855407714844e-05,
+          0.9990234375,
+          0.0009813308715820312,
+          9.179115295410156e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati9.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.00020039081573486328,
+          0.9951171875,
+          0.0048370361328125,
+          4.470348358154297e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati90.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.01537322998046875,
+          0.96484375,
+          0.01654052734375,
+          0.00311279296875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati91.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0023899078369140625,
+          0.9658203125,
+          0.027587890625,
+          0.0041046142578125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati92.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0004146099090576172,
+          0.9853515625,
+          0.0134735107421875,
+          0.0009131431579589844
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati93.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          5.3048133850097656e-05,
+          0.9970703125,
+          0.0015039443969726562,
+          0.0016021728515625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati94.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0014514923095703125,
+          0.9970703125,
+          0.0004036426544189453,
+          0.0012769699096679688
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati95.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.0,
+          1.0,
+          1.043081283569336e-05,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati96.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.013916015625,
+          0.9833984375,
+          0.002315521240234375,
+          0.00011748075485229492
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati97.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          0.00014126300811767578,
+          0.99609375,
+          0.0007777214050292969,
+          0.0030364990234375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati98.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          3.7550926208496094e-06,
+          1.0,
+          2.6941299438476562e-05,
+          1.049041748046875e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Bati/Bati99.wav",
+        "y": 1,
+        "pred": 1,
+        "probs": [
+          2.104043960571289e-05,
+          1.0,
+          0.0,
+          3.5762786865234375e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel1.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          9.828805923461914e-05,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel10.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          5.960464477539063e-08,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel100.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          3.6954879760742188e-06,
+          1.1920928955078125e-07,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel101.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.022979736328125,
+          0.08575439453125,
+          0.89111328125,
+          3.4570693969726562e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel102.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.34228515625,
+          0.0174560546875,
+          0.61962890625,
+          0.0205230712890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel103.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          1.0371208190917969e-05,
+          0.0,
+          0.9990234375,
+          0.0009984970092773438
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel104.wav",
+        "y": 2,
+        "pred": 3,
+        "probs": [
+          0.331298828125,
+          0.0849609375,
+          0.1339111328125,
+          0.44970703125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel105.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          1.9073486328125e-06,
+          0.002635955810546875,
+          0.9970703125,
+          1.7881393432617188e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel106.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0003247261047363281,
+          3.343820571899414e-05,
+          0.8330078125,
+          0.1668701171875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel107.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.00031185150146484375,
+          0.00015282630920410156,
+          0.99951171875,
+          1.9073486328125e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel108.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.03228759765625,
+          0.0830078125,
+          0.88330078125,
+          0.0014390945434570312
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel109.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          5.960464477539063e-08,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel11.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0005044937133789062,
+          2.467632293701172e-05,
+          0.99951171875,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel110.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.01367950439453125,
+          7.146596908569336e-05,
+          0.986328125,
+          0.0001876354217529297
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel111.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.00043272972106933594,
+          0.494384765625,
+          0.50537109375,
+          1.9073486328125e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel112.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          8.83936882019043e-05,
+          0.0010547637939453125,
+          0.9990234375,
+          9.655952453613281e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel113.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0005636215209960938,
+          0.00026917457580566406,
+          0.814453125,
+          0.1846923828125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel114.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0196685791015625,
+          0.0012903213500976562,
+          0.96240234375,
+          0.01654052734375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel115.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.29296875,
+          0.183349609375,
+          0.505859375,
+          0.0177001953125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel116.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.002948760986328125,
+          0.0019388198852539062,
+          0.9951171875,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel117.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          5.960464477539063e-08,
+          0.0,
+          0.99951171875,
+          0.0005011558532714844
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel118.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0164947509765625,
+          0.1307373046875,
+          0.8525390625,
+          4.172325134277344e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel119.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.029144287109375,
+          0.053741455078125,
+          0.916015625,
+          0.0013513565063476562
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel12.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          6.210803985595703e-05,
+          0.00011742115020751953,
+          0.99951171875,
+          0.0005397796630859375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel120.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.2193603515625,
+          0.01152801513671875,
+          0.5751953125,
+          0.19384765625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel121.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.00014710426330566406,
+          0.00024235248565673828,
+          0.99951171875,
+          0.00023496150970458984
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel122.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          7.766485214233398e-05,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel123.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel124.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0003349781036376953,
+          0.0010805130004882812,
+          0.99853515625,
+          0.00017273426055908203
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel125.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          3.4809112548828125e-05,
+          0.0009918212890625,
+          0.9990234375,
+          2.980232238769531e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel126.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0001728534698486328,
+          0.0001175999641418457,
+          0.99951171875,
+          5.960464477539063e-08
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel127.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          1.2099742889404297e-05,
+          5.4836273193359375e-06,
+          1.0,
+          1.1920928955078125e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel129.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.00011372566223144531,
+          0.00013399124145507812,
+          0.99951171875,
+          0.00011044740676879883
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel13.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          2.491474151611328e-05,
+          3.361701965332031e-05,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel130.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          1.9669532775878906e-06,
+          3.5762786865234375e-07,
+          1.0,
+          3.445148468017578e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel131.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.00011909008026123047,
+          0.00015687942504882812,
+          0.99951171875,
+          2.562999725341797e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel132.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          1.3709068298339844e-05,
+          1.9073486328125e-06,
+          1.0,
+          1.7881393432617188e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel133.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.04388427734375,
+          0.0015201568603515625,
+          0.953125,
+          0.00174713134765625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel134.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0074920654296875,
+          0.0010051727294921875,
+          0.9912109375,
+          0.00019371509552001953
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel135.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.035797119140625,
+          0.0003085136413574219,
+          0.962890625,
+          0.0007119178771972656
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel136.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          2.4437904357910156e-06,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel137.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel138.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel139.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          2.5033950805664062e-06,
+          0.135498046875,
+          0.8642578125,
+          0.0003254413604736328
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel14.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.003093719482421875,
+          0.0001804828643798828,
+          0.99658203125,
+          9.715557098388672e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel140.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          6.556510925292969e-07,
+          0.08123779296875,
+          0.9189453125,
+          2.2649765014648438e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel141.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          3.224611282348633e-05,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel142.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          5.364418029785156e-07,
+          1.0,
+          1.3709068298339844e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel143.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          4.887580871582031e-06,
+          0.99658203125,
+          0.0032787322998046875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel144.wav",
+        "y": 2,
+        "pred": 0,
+        "probs": [
+          0.63818359375,
+          0.024505615234375,
+          0.332763671875,
+          0.004207611083984375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel145.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0005669593811035156,
+          0.096435546875,
+          0.7685546875,
+          0.1346435546875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel146.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0002605915069580078,
+          0.0,
+          0.99951171875,
+          0.0001729726791381836
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel147.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          7.104873657226562e-05,
+          0.002895355224609375,
+          0.9970703125,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel15.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0172882080078125,
+          0.0027751922607421875,
+          0.97998046875,
+          0.0001112818717956543
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel16.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          3.337860107421875e-06,
+          5.364418029785156e-07,
+          1.0,
+          0.0002543926239013672
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel17.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel18.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0012664794921875,
+          5.960464477539063e-08,
+          0.99853515625,
+          1.1920928955078125e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel19.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.01387786865234375,
+          0.0024242401123046875,
+          0.98291015625,
+          0.0009016990661621094
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel2.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.07135009765625,
+          0.0014019012451171875,
+          0.92724609375,
+          6.556510925292969e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel20.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.012939453125,
+          0.005992889404296875,
+          0.98095703125,
+          2.676248550415039e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel21.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          4.76837158203125e-07,
+          5.960464477539062e-07,
+          1.0,
+          7.152557373046875e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel22.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          8.344650268554688e-07,
+          2.682209014892578e-06,
+          1.0,
+          1.0728836059570312e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel23.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel24.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0616455078125,
+          1.424551010131836e-05,
+          0.9384765625,
+          2.980232238769531e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel25.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          2.384185791015625e-07,
+          2.8431415557861328e-05,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel26.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          1.6748905181884766e-05,
+          0.00020360946655273438,
+          1.0,
+          5.728006362915039e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel27.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0001373291015625,
+          4.661083221435547e-05,
+          1.0,
+          1.1920928955078125e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel28.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          2.300739288330078e-05,
+          2.980232238769531e-07,
+          1.0,
+          3.5762786865234375e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel29.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.00446319580078125,
+          0.001308441162109375,
+          0.99267578125,
+          0.0013952255249023438
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel3.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel30.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          1.1920928955078125e-06,
+          4.172325134277344e-07,
+          1.0,
+          1.0728836059570312e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel31.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          2.1159648895263672e-05,
+          1.0132789611816406e-06,
+          0.99951171875,
+          0.00039076805114746094
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel32.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel33.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.268798828125,
+          0.07958984375,
+          0.64794921875,
+          0.0037326812744140625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel34.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.002010345458984375,
+          0.00034809112548828125,
+          0.99755859375,
+          1.3709068298339844e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel35.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          4.76837158203125e-07,
+          0.0,
+          1.0,
+          1.1920928955078125e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel36.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          4.76837158203125e-07,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel37.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel38.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0060272216796875,
+          3.337860107421875e-06,
+          0.99365234375,
+          0.0001442432403564453
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel39.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0002009868621826172,
+          2.6226043701171875e-06,
+          0.99951171875,
+          0.000225067138671875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel4.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0019359588623046875,
+          8.940696716308594e-07,
+          0.998046875,
+          1.3113021850585938e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel40.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          2.980232238769531e-07,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel41.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          5.960464477539063e-08,
+          8.344650268554688e-07,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel42.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.12152099609375,
+          0.0005588531494140625,
+          0.8779296875,
+          0.00017940998077392578
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel43.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          1.0132789611816406e-06,
+          1.2993812561035156e-05,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel44.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.00014507770538330078,
+          0.0039215087890625,
+          0.99609375,
+          1.1324882507324219e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel45.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.000675201416015625,
+          0.00041484832763671875,
+          0.9990234375,
+          1.5020370483398438e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel46.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0002162456512451172,
+          0.0,
+          0.99951171875,
+          2.2232532501220703e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel47.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.00193023681640625,
+          0.00012117624282836914,
+          0.998046875,
+          2.1398067474365234e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel48.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          3.3020973205566406e-05,
+          0.00016498565673828125,
+          1.0,
+          6.562471389770508e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel49.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0004553794860839844,
+          1.0073184967041016e-05,
+          0.99951171875,
+          0.00024056434631347656
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel5.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.02410888671875,
+          0.00263214111328125,
+          0.97314453125,
+          1.710653305053711e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel50.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.00023484230041503906,
+          7.081031799316406e-05,
+          0.9990234375,
+          0.0004203319549560547
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel51.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          5.960464477539063e-08,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel52.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0018491744995117188,
+          0.0007100105285644531,
+          0.99609375,
+          0.0013189315795898438
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel53.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.001758575439453125,
+          0.061431884765625,
+          0.93701171875,
+          8.344650268554688e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel54.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          4.76837158203125e-07,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel55.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          5.364418029785156e-07,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel56.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel57.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          1.1920928955078125e-07,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel58.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.25341796875,
+          0.0011320114135742188,
+          0.74560546875,
+          3.3795833587646484e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel59.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          7.510185241699219e-06,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel6.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0001291036605834961,
+          5.960464477539063e-08,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel60.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0004127025604248047,
+          6.961822509765625e-05,
+          0.99951171875,
+          2.980232238769531e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel61.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          1.6093254089355469e-06,
+          0.0,
+          1.0,
+          2.384185791015625e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel62.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          1.3113021850585938e-06,
+          1.0,
+          0.00014030933380126953
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel63.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0005488395690917969,
+          7.152557373046875e-06,
+          0.99951171875,
+          4.76837158203125e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel64.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.004749298095703125,
+          0.00012004375457763672,
+          0.9951171875,
+          7.766485214233398e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel65.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          5.960464477539063e-08,
+          5.960464477539063e-08,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel66.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          8.893013000488281e-05,
+          0.271240234375,
+          0.724609375,
+          0.0041046142578125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel67.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          4.0531158447265625e-06,
+          0.0027904510498046875,
+          0.9970703125,
+          1.6093254089355469e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel68.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          1.1920928955078125e-07,
+          5.364418029785156e-07,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel69.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          6.4373016357421875e-06,
+          2.384185791015625e-06,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel7.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.01641845703125,
+          0.00043129920959472656,
+          0.9833984375,
+          0.00010067224502563477
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel70.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0002167224884033203,
+          0.00012493133544921875,
+          0.99951171875,
+          5.960464477539063e-08
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel71.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          2.9861927032470703e-05,
+          0.00016188621520996094,
+          1.0,
+          1.0967254638671875e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel72.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.000946044921875,
+          0.0010023117065429688,
+          0.9970703125,
+          0.0006933212280273438
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel73.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0145111083984375,
+          0.0019178390502929688,
+          0.9833984375,
+          7.712841033935547e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel74.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          2.8967857360839844e-05,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel75.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0017175674438476562,
+          5.960464477539063e-08,
+          0.998046875,
+          1.1920928955078125e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel76.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          4.76837158203125e-07,
+          5.960464477539062e-07,
+          1.0,
+          7.152557373046875e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel77.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          6.937980651855469e-05,
+          1.5497207641601562e-06,
+          1.0,
+          4.76837158203125e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel78.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.1982421875,
+          1.2516975402832031e-05,
+          0.8017578125,
+          1.233816146850586e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel79.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.09234619140625,
+          2.2470951080322266e-05,
+          0.90771484375,
+          1.1920928955078125e-07
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel8.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0018587112426757812,
+          3.409385681152344e-05,
+          0.99755859375,
+          0.0005369186401367188
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel80.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0004851818084716797,
+          3.844499588012695e-05,
+          0.99951171875,
+          7.62939453125e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel81.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0003058910369873047,
+          0.0007352828979492188,
+          0.9990234375,
+          4.8160552978515625e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel82.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.00017082691192626953,
+          4.172325134277344e-07,
+          1.0,
+          6.139278411865234e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel83.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          5.841255187988281e-06,
+          3.5762786865234375e-07,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel84.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          1.1920928955078125e-07,
+          5.364418029785156e-07,
+          1.0,
+          5.960464477539063e-08
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel85.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.1246337890625,
+          0.0,
+          0.87548828125,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel86.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.001071929931640625,
+          4.76837158203125e-06,
+          0.9990234375,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel87.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0016965866088867188,
+          5.900859832763672e-06,
+          0.998046875,
+          2.3245811462402344e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel88.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0008440017700195312,
+          7.867813110351562e-06,
+          0.9990234375,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel89.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.146728515625,
+          0.01873779296875,
+          0.83447265625,
+          5.066394805908203e-06
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel9.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0027103424072265625,
+          0.0007166862487792969,
+          0.99560546875,
+          0.0009274482727050781
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel90.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.00463104248046875,
+          1.1920928955078125e-07,
+          0.9951171875,
+          0.0003235340118408203
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel91.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          1.1026859283447266e-05,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel92.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0184326171875,
+          0.00104522705078125,
+          0.98046875,
+          0.0002968311309814453
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel93.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.035797119140625,
+          0.034332275390625,
+          0.9296875,
+          0.00024437904357910156
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel94.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          2.384185791015625e-07,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel95.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          1.52587890625e-05,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel96.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.00018656253814697266,
+          2.384185791015625e-07,
+          0.99951171875,
+          0.00023174285888671875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel97.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.09564208984375,
+          0.0033779144287109375,
+          0.90087890625,
+          6.645917892456055e-05
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel98.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Ambassel/Ambassel99.wav",
+        "y": 2,
+        "pred": 2,
+        "probs": [
+          5.960464477539063e-08,
+          5.960464477539062e-07,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye1.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          3.5822391510009766e-05,
+          1.7523765563964844e-05,
+          0.0006046295166015625,
+          0.99951171875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye10.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0010137557983398438,
+          0.0015211105346679688,
+          0.00011807680130004883,
+          0.9970703125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye100.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          8.118152618408203e-05,
+          0.08209228515625,
+          0.0048370361328125,
+          0.9130859375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye101.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.005496978759765625,
+          0.025238037109375,
+          7.748603820800781e-07,
+          0.96923828125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye102.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.004451751708984375,
+          0.045257568359375,
+          0.0,
+          0.9501953125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye103.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0007691383361816406,
+          0.00458526611328125,
+          2.2172927856445312e-05,
+          0.99462890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye104.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.09698486328125,
+          0.002590179443359375,
+          0.0006837844848632812,
+          0.89990234375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye105.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.08837890625,
+          0.00909423828125,
+          0.0009860992431640625,
+          0.9013671875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye106.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.280029296875,
+          0.12225341796875,
+          0.0096893310546875,
+          0.587890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye107.wav",
+        "y": 3,
+        "pred": 1,
+        "probs": [
+          0.00028514862060546875,
+          0.7138671875,
+          0.00011897087097167969,
+          0.285400390625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye108.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0018434524536132812,
+          6.026029586791992e-05,
+          3.063678741455078e-05,
+          0.998046875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye109.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.002071380615234375,
+          0.210693359375,
+          0.00623321533203125,
+          0.78125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye11.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.06451416015625,
+          0.0791015625,
+          0.00415802001953125,
+          0.85205078125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye110.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.1463623046875,
+          0.1536865234375,
+          0.1119384765625,
+          0.587890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye111.wav",
+        "y": 3,
+        "pred": 2,
+        "probs": [
+          0.274658203125,
+          0.01262664794921875,
+          0.39111328125,
+          0.321533203125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye112.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          4.887580871582031e-06,
+          1.7285346984863281e-06,
+          0.00015020370483398438,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye113.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0054473876953125,
+          0.0248260498046875,
+          0.0011386871337890625,
+          0.96875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye114.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0008730888366699219,
+          0.00841522216796875,
+          3.796815872192383e-05,
+          0.99072265625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye115.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          9.107589721679688e-05,
+          0.00014317035675048828,
+          0.00022482872009277344,
+          0.99951171875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye116.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.01102447509765625,
+          4.2438507080078125e-05,
+          2.855062484741211e-05,
+          0.98876953125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye117.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          6.079673767089844e-06,
+          2.0265579223632812e-05,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye118.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          8.863210678100586e-05,
+          1.722574234008789e-05,
+          0.0007281303405761719,
+          0.9990234375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye119.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye12.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          2.7418136596679688e-05,
+          5.4001808166503906e-05,
+          0.0005202293395996094,
+          0.99951171875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye120.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          2.4497509002685547e-05,
+          0.00037097930908203125,
+          0.0002665519714355469,
+          0.99951171875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye121.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0005755424499511719,
+          0.00031113624572753906,
+          0.0008306503295898438,
+          0.998046875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye122.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          1.1920928955078125e-07,
+          0.000598907470703125,
+          5.519390106201172e-05,
+          0.99951171875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye123.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.001461029052734375,
+          0.06158447265625,
+          2.0265579223632812e-05,
+          0.93701171875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye124.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0034332275390625,
+          0.023223876953125,
+          5.960464477539063e-08,
+          0.97314453125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye125.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.003871917724609375,
+          0.0016117095947265625,
+          2.574920654296875e-05,
+          0.99462890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye126.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0004856586456298828,
+          7.343292236328125e-05,
+          0.00023162364959716797,
+          0.9990234375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye127.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.005115509033203125,
+          0.0020046234130859375,
+          0.00087738037109375,
+          0.9921875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye128.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0026149749755859375,
+          0.0017843246459960938,
+          0.0009241104125976562,
+          0.99462890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye129.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          4.363059997558594e-05,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye13.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          1.430511474609375e-05,
+          2.980232238769531e-07,
+          1.704692840576172e-05,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye130.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.001605987548828125,
+          7.992982864379883e-05,
+          1.0132789611816406e-06,
+          0.99853515625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye131.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0016489028930664062,
+          0.0025157928466796875,
+          8.14199447631836e-05,
+          0.99560546875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye132.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.01146697998046875,
+          0.0164794921875,
+          0.00039196014404296875,
+          0.9716796875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye133.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye134.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.005748748779296875,
+          3.2961368560791016e-05,
+          1.2755393981933594e-05,
+          0.994140625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye135.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.026031494140625,
+          0.0056610107421875,
+          0.010589599609375,
+          0.9580078125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye136.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          9.5367431640625e-07,
+          1.430511474609375e-06,
+          0.00019180774688720703,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye137.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye138.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0046539306640625,
+          0.01995849609375,
+          0.020904541015625,
+          0.9541015625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye139.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          3.49879264831543e-05,
+          2.7954578399658203e-05,
+          1.2040138244628906e-05,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye14.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          3.504753112792969e-05,
+          7.021427154541016e-05,
+          0.0006246566772460938,
+          0.99951171875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye140.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          2.8133392333984375e-05,
+          8.404254913330078e-06,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye141.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0208587646484375,
+          0.01204681396484375,
+          0.004192352294921875,
+          0.962890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye142.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0001131296157836914,
+          2.962350845336914e-05,
+          2.1457672119140625e-06,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye143.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.006008148193359375,
+          0.00849151611328125,
+          0.001178741455078125,
+          0.984375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye144.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0131683349609375,
+          0.005496978759765625,
+          0.00037288665771484375,
+          0.98095703125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye145.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye146.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.0,
+          3.2186508178710938e-06,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye147.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.00020945072174072266,
+          1.8417835235595703e-05,
+          1.3709068298339844e-06,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye15.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.008819580078125,
+          0.005859375,
+          0.00017213821411132812,
+          0.9853515625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye16.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.00031185150146484375,
+          0.0,
+          0.99951171875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye17.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.0,
+          3.337860107421875e-06,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye18.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.0,
+          5.960464477539063e-08,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye19.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0217437744140625,
+          0.0003814697265625,
+          0.005237579345703125,
+          0.97265625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye2.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.002536773681640625,
+          0.00014889240264892578,
+          0.002490997314453125,
+          0.99462890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye20.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          5.960464477539063e-08,
+          2.390146255493164e-05,
+          1.1742115020751953e-05,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye22.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.08258056640625,
+          0.11639404296875,
+          0.001918792724609375,
+          0.798828125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye23.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.00014829635620117188,
+          0.0027637481689453125,
+          5.632638931274414e-05,
+          0.9970703125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye24.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye25.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.0,
+          2.384185791015625e-06,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye26.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.015045166015625,
+          0.0003712177276611328,
+          0.00435638427734375,
+          0.97998046875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye28.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0082550048828125,
+          0.006481170654296875,
+          0.00010919570922851562,
+          0.9853515625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye29.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          4.172325134277344e-06,
+          0.00020575523376464844,
+          2.6285648345947266e-05,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye3.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.001834869384765625,
+          0.03118896484375,
+          0.0014619827270507812,
+          0.96533203125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye31.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.06219482421875,
+          0.00146484375,
+          0.0004401206970214844,
+          0.93603515625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye32.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          6.443262100219727e-05,
+          0.0032501220703125,
+          0.00019729137420654297,
+          0.99658203125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye33.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0003170967102050781,
+          0.001293182373046875,
+          3.0994415283203125e-06,
+          0.99853515625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye34.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          9.5367431640625e-07,
+          0.004787445068359375,
+          0.00013947486877441406,
+          0.9951171875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye35.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          3.62396240234375e-05,
+          5.960464477539062e-07,
+          0.0012998580932617188,
+          0.9990234375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye36.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0008525848388671875,
+          0.00455474853515625,
+          0.0012025833129882812,
+          0.9931640625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye37.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0013790130615234375,
+          0.0223236083984375,
+          6.943941116333008e-05,
+          0.9765625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye38.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.061431884765625,
+          0.034881591796875,
+          0.0017185211181640625,
+          0.90234375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye39.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          3.5762786865234375e-07,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye4.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.00787353515625,
+          0.0103607177734375,
+          6.580352783203125e-05,
+          0.98193359375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye40.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0010175704956054688,
+          0.0044097900390625,
+          0.0019464492797851562,
+          0.99267578125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye41.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0003249645233154297,
+          0.0002048015594482422,
+          0.0004036426544189453,
+          0.9990234375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye42.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.2607421875,
+          0.21240234375,
+          0.0026073455810546875,
+          0.52392578125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye43.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.000492095947265625,
+          0.0007524490356445312,
+          0.00035762786865234375,
+          0.99853515625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye44.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.0007047653198242188,
+          0.00016927719116210938,
+          0.9990234375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye45.wav",
+        "y": 3,
+        "pred": 0,
+        "probs": [
+          0.499755859375,
+          0.499267578125,
+          2.7894973754882812e-05,
+          0.0008726119995117188
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye46.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0021572113037109375,
+          0.00015616416931152344,
+          5.602836608886719e-06,
+          0.99755859375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye47.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.01245880126953125,
+          0.0189666748046875,
+          0.0229949951171875,
+          0.9453125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye48.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0001285076141357422,
+          3.552436828613281e-05,
+          3.5762786865234375e-07,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye49.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.0,
+          5.960464477539063e-08,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye5.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          2.1159648895263672e-05,
+          2.0265579223632812e-06,
+          0.00011587142944335938,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye50.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          1.4066696166992188e-05,
+          4.112720489501953e-06,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye51.wav",
+        "y": 3,
+        "pred": 0,
+        "probs": [
+          0.71337890625,
+          0.0092620849609375,
+          8.958578109741211e-05,
+          0.277099609375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye52.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye53.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          3.1948089599609375e-05,
+          1.0728836059570312e-05,
+          7.152557373046875e-07,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye54.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          3.5762786865234375e-07,
+          0.0,
+          1.3947486877441406e-05,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye55.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0086669921875,
+          0.0002522468566894531,
+          9.894371032714844e-06,
+          0.9912109375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye56.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.001224517822265625,
+          0.0008788108825683594,
+          0.052490234375,
+          0.9453125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye57.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0006375312805175781,
+          1.1324882507324219e-05,
+          5.2928924560546875e-05,
+          0.9990234375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye58.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0005445480346679688,
+          0.0011806488037109375,
+          1.2099742889404297e-05,
+          0.99853515625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye59.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.357421875,
+          0.057373046875,
+          0.136962890625,
+          0.4482421875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye6.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          1.7881393432617188e-06,
+          0.0004477500915527344,
+          4.76837158203125e-07,
+          0.99951171875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye60.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.002727508544921875,
+          0.0,
+          0.0,
+          0.9970703125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye61.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          1.1920928955078125e-07,
+          0.0005984306335449219,
+          0.0001575946807861328,
+          0.9990234375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye62.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          5.346536636352539e-05,
+          7.3909759521484375e-06,
+          0.0004935264587402344,
+          0.99951171875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye63.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          5.245208740234375e-05,
+          0.029266357421875,
+          6.622076034545898e-05,
+          0.970703125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye64.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          5.960464477539063e-08,
+          4.172325134277344e-07,
+          4.57763671875e-05,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye65.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.00010329484939575195,
+          0.0011625289916992188,
+          0.00023937225341796875,
+          0.99853515625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye66.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          4.76837158203125e-07,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye67.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.006866455078125,
+          0.001312255859375,
+          2.7477741241455078e-05,
+          0.99169921875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye68.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0006508827209472656,
+          0.0008487701416015625,
+          0.0010709762573242188,
+          0.99755859375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye69.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.0017528533935546875,
+          0.0004024505615234375,
+          0.998046875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye7.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0007152557373046875,
+          0.0211334228515625,
+          0.0002390146255493164,
+          0.97802734375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye70.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.01456451416015625,
+          0.010406494140625,
+          0.0261688232421875,
+          0.94873046875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye71.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye72.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.00286865234375,
+          0.00023233890533447266,
+          0.002288818359375,
+          0.99462890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye73.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          5.960464477539063e-08,
+          1.3113021850585938e-05,
+          0.0005564689636230469,
+          0.99951171875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye74.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0003292560577392578,
+          0.0003972053527832031,
+          0.0005054473876953125,
+          0.99853515625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye75.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          5.960464477539063e-08,
+          1.9073486328125e-06,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye76.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.01097869873046875,
+          0.222412109375,
+          0.006969451904296875,
+          0.759765625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye77.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.2294921875,
+          0.0001628398895263672,
+          1.4424324035644531e-05,
+          0.7705078125
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye78.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.07452392578125,
+          0.118896484375,
+          0.0135498046875,
+          0.79296875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye79.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.160888671875,
+          0.05218505859375,
+          0.126953125,
+          0.66015625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye8.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          2.384185791015625e-07,
+          0.0016775131225585938,
+          0.0,
+          0.99853515625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye80.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          7.152557373046875e-07,
+          1.6808509826660156e-05,
+          0.00016450881958007812,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye81.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.1424560546875,
+          0.264892578125,
+          0.0010881423950195312,
+          0.591796875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye82.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0175323486328125,
+          0.103515625,
+          0.0654296875,
+          0.8134765625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye83.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.005031585693359375,
+          0.016876220703125,
+          0.1173095703125,
+          0.86083984375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye84.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0035953521728515625,
+          0.0657958984375,
+          0.1695556640625,
+          0.76123046875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye85.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          7.152557373046875e-06,
+          0.0,
+          0.19287109375,
+          0.80712890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye86.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.043548583984375,
+          0.0130157470703125,
+          0.000164031982421875,
+          0.943359375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye87.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.163330078125,
+          0.0706787109375,
+          0.208984375,
+          0.55712890625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye88.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.005847930908203125,
+          0.061614990234375,
+          0.0467529296875,
+          0.8857421875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye89.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          4.5180320739746094e-05,
+          0.0171966552734375,
+          0.43310546875,
+          0.5498046875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye9.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          5.960464477539063e-08,
+          0.0,
+          1.5676021575927734e-05,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye90.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0282135009765625,
+          0.22900390625,
+          0.00713348388671875,
+          0.73583984375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye91.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.006946563720703125,
+          0.0113983154296875,
+          0.0228729248046875,
+          0.958984375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye92.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.367431640625,
+          0.106689453125,
+          0.0030498504638671875,
+          0.52294921875
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye93.wav",
+        "y": 3,
+        "pred": 1,
+        "probs": [
+          0.257080078125,
+          0.29345703125,
+          0.2244873046875,
+          0.2252197265625
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye94.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.149169921875,
+          0.297119140625,
+          9.85264778137207e-05,
+          0.5537109375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye95.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0904541015625,
+          0.0011682510375976562,
+          0.0097503662109375,
+          0.8984375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye96.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          1.7881393432617188e-07,
+          2.384185791015625e-07,
+          4.76837158203125e-06,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye97.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          5.304813385009766e-06,
+          3.2782554626464844e-05,
+          0.029998779296875,
+          0.97021484375
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye98.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "source": "EMIR_Dataset_V1/Anchihoye/Anchihoye99.wav",
+        "y": 3,
+        "pred": 3,
+        "probs": [
+          0.0122222900390625,
+          0.086181640625,
+          0.00226593017578125,
+          0.8994140625
+        ]
+      }
+    ]
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.3584286218666168,
+      "val_loss": 1.3380890358321178,
+      "val_chunk_acc": 0.295873573309921,
+      "val_chunk_f1": 0.24752983084759647,
+      "val_clip_acc": 0.298828125,
+      "val_clip_f1": 0.2534255277095097,
+      "lr": 0.0009998300244750396,
+      "time": 25.319896697998047
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.3283978346361214,
+      "val_loss": 1.30937472103561,
+      "val_chunk_acc": 0.3388937664618086,
+      "val_chunk_f1": 0.28658506097989134,
+      "val_clip_acc": 0.3515625,
+      "val_clip_f1": 0.2968631847290358,
+      "lr": 0.0009993174702533848,
+      "time": 18.12350106239319
+    },
+    {
+      "epoch": 3,
+      "train_loss": 1.2980074226616856,
+      "val_loss": 1.2827093453654288,
+      "val_chunk_acc": 0.37050043898156276,
+      "val_chunk_f1": 0.3203782334554214,
+      "val_clip_acc": 0.37890625,
+      "val_clip_f1": 0.3336979988913972,
+      "lr": 0.0009984626858738025,
+      "time": 19.533964157104492
+    },
+    {
+      "epoch": 4,
+      "train_loss": 1.2532746284362302,
+      "val_loss": 1.2247437769326335,
+      "val_chunk_acc": 0.42142230026338895,
+      "val_chunk_f1": 0.41933002826742505,
+      "val_clip_acc": 0.44140625,
+      "val_clip_f1": 0.43883370980122277,
+      "lr": 0.0009972662572020204,
+      "time": 17.678823947906494
+    },
+    {
+      "epoch": 5,
+      "train_loss": 1.2013589823581128,
+      "val_loss": 1.3105625574582496,
+      "val_chunk_acc": 0.3713784021071115,
+      "val_chunk_f1": 0.333789831074461,
+      "val_clip_acc": 0.376953125,
+      "val_clip_f1": 0.3373708804926337,
+      "lr": 0.0009957290042653716,
+      "time": 17.64362597465515
+    },
+    {
+      "epoch": 6,
+      "train_loss": 1.155027187971705,
+      "val_loss": 1.1102645697564384,
+      "val_chunk_acc": 0.47585601404741,
+      "val_chunk_f1": 0.46214413490014083,
+      "val_clip_acc": 0.53125,
+      "val_clip_f1": 0.5144634429204761,
+      "lr": 0.0009938519806907496,
+      "time": 15.898159503936768
+    },
+    {
+      "epoch": 7,
+      "train_loss": 1.1165570611934585,
+      "val_loss": 1.0599325168959606,
+      "val_chunk_acc": 0.5223880597014925,
+      "val_chunk_f1": 0.5151850670487217,
+      "val_clip_acc": 0.564453125,
+      "val_clip_f1": 0.5559463417386779,
+      "lr": 0.0009916364729824585,
+      "time": 17.105018615722656
+    },
+    {
+      "epoch": 8,
+      "train_loss": 1.0443375591772148,
+      "val_loss": 1.0137815793634404,
+      "val_chunk_acc": 0.5355575065847235,
+      "val_chunk_f1": 0.5280489261826913,
+      "val_clip_acc": 0.580078125,
+      "val_clip_f1": 0.5744997679943928,
+      "lr": 0.0009890839996404466,
+      "time": 21.054648399353027
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.9984389366395023,
+      "val_loss": 0.9827848890562451,
+      "val_chunk_acc": 0.5750658472344161,
+      "val_chunk_f1": 0.5720616636301479,
+      "val_clip_acc": 0.619140625,
+      "val_clip_f1": 0.6146290787168627,
+      "lr": 0.0009861963101195337,
+      "time": 17.967912673950195
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.9366479561510814,
+      "val_loss": 0.9166946377641177,
+      "val_chunk_acc": 0.6435469710272168,
+      "val_chunk_f1": 0.6398253683965703,
+      "val_clip_acc": 0.6953125,
+      "val_clip_f1": 0.6918987903471325,
+      "lr": 0.000982975383630342,
+      "time": 18.196685552597046
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.894854356964908,
+      "val_loss": 0.848777056629978,
+      "val_chunk_acc": 0.6681299385425812,
+      "val_chunk_f1": 0.6659121144685644,
+      "val_clip_acc": 0.705078125,
+      "val_clip_f1": 0.7022082734310764,
+      "lr": 0.000979423427782752,
+      "time": 17.681490659713745
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.8349026580412225,
+      "val_loss": 0.8508019388716298,
+      "val_chunk_acc": 0.6505706760316067,
+      "val_chunk_f1": 0.6474361437251943,
+      "val_clip_acc": 0.6953125,
+      "val_clip_f1": 0.6902501680031293,
+      "lr": 0.0009755428770728171,
+      "time": 19.39748477935791
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.7956513282525013,
+      "val_loss": 0.7939425001445833,
+      "val_chunk_acc": 0.6760316066725197,
+      "val_chunk_f1": 0.6771460448040163,
+      "val_clip_acc": 0.72265625,
+      "val_clip_f1": 0.7221102758592706,
+      "lr": 0.0009713363912141694,
+      "time": 17.727836847305298
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.7604716537467926,
+      "val_loss": 0.7642737681976634,
+      "val_chunk_acc": 0.6988586479367866,
+      "val_chunk_f1": 0.700327154709106,
+      "val_clip_acc": 0.724609375,
+      "val_clip_f1": 0.7272522017939047,
+      "lr": 0.0009668068533150624,
+      "time": 16.80052161216736
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.7232951496738985,
+      "val_loss": 0.7296381531000347,
+      "val_chunk_acc": 0.7172958735733099,
+      "val_chunk_f1": 0.7173534992717412,
+      "val_clip_acc": 0.755859375,
+      "val_clip_f1": 0.7548215224160337,
+      "lr": 0.0009619573679023013,
+      "time": 15.347781658172607
+    },
+    {
+      "epoch": 16,
+      "train_loss": 0.6803760085718699,
+      "val_loss": 0.7245360751545565,
+      "val_chunk_acc": 0.7287093942054433,
+      "val_chunk_f1": 0.7281108661022657,
+      "val_clip_acc": 0.7578125,
+      "val_clip_f1": 0.7578679892112138,
+      "lr": 0.000956791258793412,
+      "time": 17.9862642288208
+    },
+    {
+      "epoch": 17,
+      "train_loss": 0.6601139008998871,
+      "val_loss": 0.6524188487125762,
+      "val_chunk_acc": 0.7497805092186128,
+      "val_chunk_f1": 0.7488974588028738,
+      "val_clip_acc": 0.76953125,
+      "val_clip_f1": 0.7692274887695139,
+      "lr": 0.0009513120668185106,
+      "time": 17.980274438858032
+    },
+    {
+      "epoch": 18,
+      "train_loss": 0.6287225256243862,
+      "val_loss": 0.6837262364204145,
+      "val_chunk_acc": 0.7339771729587358,
+      "val_chunk_f1": 0.7324689489669507,
+      "val_clip_acc": 0.7734375,
+      "val_clip_f1": 0.7702128276169593,
+      "lr": 0.000945523547393433,
+      "time": 18.111908674240112
+    },
+    {
+      "epoch": 19,
+      "train_loss": 0.5935058640428337,
+      "val_loss": 0.6404871654887279,
+      "val_chunk_acc": 0.7629499561018437,
+      "val_chunk_f1": 0.7624573716195283,
+      "val_clip_acc": 0.791015625,
+      "val_clip_f1": 0.7918452572573571,
+      "lr": 0.0009394296679457879,
+      "time": 17.928237915039062
+    },
+    {
+      "epoch": 20,
+      "train_loss": 0.5595741346179242,
+      "val_loss": 0.6270489952771469,
+      "val_chunk_acc": 0.7673397717295873,
+      "val_chunk_f1": 0.7672780447000442,
+      "val_clip_acc": 0.796875,
+      "val_clip_f1": 0.7971431571647544,
+      "lr": 0.0009330346051956981,
+      "time": 17.835962057113647
+    },
+    {
+      "epoch": 21,
+      "train_loss": 0.5383445502045643,
+      "val_loss": 0.5665602251246271,
+      "val_chunk_acc": 0.7945566286215979,
+      "val_chunk_f1": 0.7951165430924629,
+      "val_clip_acc": 0.845703125,
+      "val_clip_f1": 0.8459236843398336,
+      "lr": 0.0009263427422930943,
+      "time": 17.266377687454224
+    },
+    {
+      "epoch": 22,
+      "train_loss": 0.5030852262394495,
+      "val_loss": 0.6117736920648965,
+      "val_chunk_acc": 0.7647058823529411,
+      "val_chunk_f1": 0.766787214213023,
+      "val_clip_acc": 0.79296875,
+      "val_clip_f1": 0.7951449106528365,
+      "lr": 0.0009193586658135205,
+      "time": 20.527662992477417
+    },
+    {
+      "epoch": 23,
+      "train_loss": 0.48008009121121176,
+      "val_loss": 0.6063721728387687,
+      "val_chunk_acc": 0.7655838454784899,
+      "val_chunk_f1": 0.7678243660981185,
+      "val_clip_acc": 0.814453125,
+      "val_clip_f1": 0.8163659927207819,
+      "lr": 0.0009120871626145155,
+      "time": 20.27984118461609
+    },
+    {
+      "epoch": 24,
+      "train_loss": 0.4699568676062856,
+      "val_loss": 0.5296380843270547,
+      "val_chunk_acc": 0.8068481123792801,
+      "val_chunk_f1": 0.8078563808406767,
+      "val_clip_acc": 0.83984375,
+      "val_clip_f1": 0.8409838868217362,
+      "lr": 0.000904533216554719,
+      "time": 17.820143222808838
+    },
+    {
+      "epoch": 25,
+      "train_loss": 0.43501498140245076,
+      "val_loss": 0.5260790315136981,
+      "val_chunk_acc": 0.8138718173836699,
+      "val_chunk_f1": 0.8144161197873758,
+      "val_clip_acc": 0.857421875,
+      "val_clip_f1": 0.8583862807429502,
+      "lr": 0.000896702005077956,
+      "time": 21.048389196395874
+    },
+    {
+      "epoch": 26,
+      "train_loss": 0.42494185089346875,
+      "val_loss": 0.5154068404064563,
+      "val_chunk_acc": 0.8156277436347673,
+      "val_chunk_f1": 0.816313604367976,
+      "val_clip_acc": 0.84375,
+      "val_clip_f1": 0.8442017997100619,
+      "lr": 0.0008885988956646376,
+      "time": 17.58840250968933
+    },
+    {
+      "epoch": 27,
+      "train_loss": 0.39429935842872144,
+      "val_loss": 0.5113214441723107,
+      "val_chunk_acc": 0.8173836698858647,
+      "val_chunk_f1": 0.8185652515173709,
+      "val_clip_acc": 0.849609375,
+      "val_clip_f1": 0.850002309791012,
+      "lr": 0.0008802294421529113,
+      "time": 18.45636796951294
+    },
+    {
+      "epoch": 28,
+      "train_loss": 0.37519357775349216,
+      "val_loss": 0.5169173961045765,
+      "val_chunk_acc": 0.8147497805092186,
+      "val_chunk_f1": 0.8147792612752456,
+      "val_clip_acc": 0.853515625,
+      "val_clip_f1": 0.8526936408153915,
+      "lr": 0.0008715993809320846,
+      "time": 18.37992787361145
+    },
+    {
+      "epoch": 29,
+      "train_loss": 0.3779488395615275,
+      "val_loss": 0.4652070156621556,
+      "val_chunk_acc": 0.835820895522388,
+      "val_chunk_f1": 0.8366662926148623,
+      "val_clip_acc": 0.87109375,
+      "val_clip_f1": 0.8717211345486569,
+      "lr": 0.0008627146270109248,
+      "time": 18.797910451889038
+    },
+    {
+      "epoch": 30,
+      "train_loss": 0.35269171478279143,
+      "val_loss": 0.48880034669435685,
+      "val_chunk_acc": 0.820017559262511,
+      "val_chunk_f1": 0.8199208121155483,
+      "val_clip_acc": 0.861328125,
+      "val_clip_f1": 0.8615068156674739,
+      "lr": 0.0008535812699635385,
+      "time": 18.364717721939087
+    },
+    {
+      "epoch": 31,
+      "train_loss": 0.323471469542827,
+      "val_loss": 0.4840249011817996,
+      "val_chunk_acc": 0.8349429323968394,
+      "val_chunk_f1": 0.8354374404794553,
+      "val_clip_acc": 0.87109375,
+      "val_clip_f1": 0.8714362269069806,
+      "lr": 0.0008442055697556003,
+      "time": 18.126925468444824
+    },
+    {
+      "epoch": 32,
+      "train_loss": 0.309539026015973,
+      "val_loss": 0.4740944712229001,
+      "val_chunk_acc": 0.8472344161545216,
+      "val_chunk_f1": 0.8476089833945063,
+      "val_clip_acc": 0.873046875,
+      "val_clip_f1": 0.8734229924613236,
+      "lr": 0.0008345939524537998,
+      "time": 22.354952573776245
+    },
+    {
+      "epoch": 33,
+      "train_loss": 0.30785420937949876,
+      "val_loss": 0.5491217011103409,
+      "val_chunk_acc": 0.8050921861281826,
+      "val_chunk_f1": 0.8070707000762622,
+      "val_clip_acc": 0.83984375,
+      "val_clip_f1": 0.8428772494154846,
+      "lr": 0.0008247530058214394,
+      "time": 20.4817898273468
+    },
+    {
+      "epoch": 34,
+      "train_loss": 0.2846957106726715,
+      "val_loss": 0.4182813895491783,
+      "val_chunk_acc": 0.8446005267778753,
+      "val_chunk_f1": 0.8457440284592932,
+      "val_clip_acc": 0.8828125,
+      "val_clip_f1": 0.8840244978806471,
+      "lr": 0.0008146894748032108,
+      "time": 18.866701364517212
+    },
+    {
+      "epoch": 35,
+      "train_loss": 0.2683177520651894,
+      "val_loss": 0.502440483450785,
+      "val_chunk_acc": 0.8261633011413521,
+      "val_chunk_f1": 0.8267924670123229,
+      "val_clip_acc": 0.857421875,
+      "val_clip_f1": 0.8579576266185076,
+      "lr": 0.0008044102569022351,
+      "time": 21.448715448379517
+    },
+    {
+      "epoch": 36,
+      "train_loss": 0.2565838740951565,
+      "val_loss": 0.41543383688336405,
+      "val_chunk_acc": 0.8647936786654961,
+      "val_chunk_f1": 0.8653716444922763,
+      "val_clip_acc": 0.890625,
+      "val_clip_f1": 0.8911328755063453,
+      "lr": 0.0007939223974525439,
+      "time": 20.259934902191162
+    },
+    {
+      "epoch": 37,
+      "train_loss": 0.2555669137392657,
+      "val_loss": 0.41768812178204834,
+      "val_chunk_acc": 0.8428446005267779,
+      "val_chunk_f1": 0.843436917832773,
+      "val_clip_acc": 0.876953125,
+      "val_clip_f1": 0.877694176266306,
+      "lr": 0.0007832330847902351,
+      "time": 19.49350666999817
+    },
+    {
+      "epoch": 38,
+      "train_loss": 0.25200562358620654,
+      "val_loss": 0.4404181699359281,
+      "val_chunk_acc": 0.8481123792800702,
+      "val_chunk_f1": 0.8490885653377156,
+      "val_clip_acc": 0.875,
+      "val_clip_f1": 0.8755112117180427,
+      "lr": 0.000772349645326617,
+      "time": 20.765634298324585
+    },
+    {
+      "epoch": 39,
+      "train_loss": 0.22696500130925312,
+      "val_loss": 0.39636174223734894,
+      "val_chunk_acc": 0.8577699736611062,
+      "val_chunk_f1": 0.8580130003757271,
+      "val_clip_acc": 0.888671875,
+      "val_clip_f1": 0.8892838792188619,
+      "lr": 0.0007612795385267162,
+      "time": 19.46685791015625
+    },
+    {
+      "epoch": 40,
+      "train_loss": 0.2146523878068091,
+      "val_loss": 0.4126903698881851,
+      "val_chunk_acc": 0.8718173836698858,
+      "val_chunk_f1": 0.8720822624168523,
+      "val_clip_acc": 0.890625,
+      "val_clip_f1": 0.8909379918740502,
+      "lr": 0.0007500303517965901,
+      "time": 18.391337156295776
+    },
+    {
+      "epoch": 41,
+      "train_loss": 0.23081948397209845,
+      "val_loss": 0.39207564858201305,
+      "val_chunk_acc": 0.8683055311676909,
+      "val_chunk_f1": 0.8686387933336684,
+      "val_clip_acc": 0.896484375,
+      "val_clip_f1": 0.8963673674417426,
+      "lr": 0.00073860979528295,
+      "time": 15.055067300796509
+    },
+    {
+      "epoch": 42,
+      "train_loss": 0.1957966114831976,
+      "val_loss": 0.38389650732932956,
+      "val_chunk_acc": 0.8735733099209834,
+      "val_chunk_f1": 0.8737619276356889,
+      "val_clip_acc": 0.900390625,
+      "val_clip_f1": 0.9004630275831599,
+      "lr": 0.0007270256965886581,
+      "time": 17.613356590270996
+    },
+    {
+      "epoch": 43,
+      "train_loss": 0.19335198169013104,
+      "val_loss": 0.39318246188343775,
+      "val_chunk_acc": 0.8665496049165935,
+      "val_chunk_f1": 0.8670377801062552,
+      "val_clip_acc": 0.90234375,
+      "val_clip_f1": 0.9026358167861126,
+      "lr": 0.0007152859954077204,
+      "time": 20.07812738418579
+    },
+    {
+      "epoch": 44,
+      "train_loss": 0.19498566801409167,
+      "val_loss": 0.37829797565152085,
+      "val_chunk_acc": 0.8770851624231782,
+      "val_chunk_f1": 0.8777156641926622,
+      "val_clip_acc": 0.90625,
+      "val_clip_f1": 0.9066270012815936,
+      "lr": 0.0007033987380834526,
+      "time": 17.188735485076904
+    },
+    {
+      "epoch": 45,
+      "train_loss": 0.17078157877886152,
+      "val_loss": 0.3741319121971164,
+      "val_chunk_acc": 0.8858647936786654,
+      "val_chunk_f1": 0.8862213527676295,
+      "val_clip_acc": 0.916015625,
+      "val_clip_f1": 0.9160482656632747,
+      "lr": 0.000691372072093549,
+      "time": 17.56690549850464
+    },
+    {
+      "epoch": 46,
+      "train_loss": 0.16805378045422964,
+      "val_loss": 0.3829779965088386,
+      "val_chunk_acc": 0.8858647936786654,
+      "val_chunk_f1": 0.8859374082165857,
+      "val_clip_acc": 0.923828125,
+      "val_clip_f1": 0.9238429928520004,
+      "lr": 0.0006792142404658354,
+      "time": 17.357517957687378
+    },
+    {
+      "epoch": 47,
+      "train_loss": 0.16945533201577195,
+      "val_loss": 0.3665552715704669,
+      "val_chunk_acc": 0.8753292361720808,
+      "val_chunk_f1": 0.8760902929598204,
+      "val_clip_acc": 0.91796875,
+      "val_clip_f1": 0.918086906128322,
+      "lr": 0.0006669335761285306,
+      "time": 17.344815969467163
+    },
+    {
+      "epoch": 48,
+      "train_loss": 0.1549182880415495,
+      "val_loss": 0.3759427009914087,
+      "val_chunk_acc": 0.8832309043020193,
+      "val_chunk_f1": 0.883711039368821,
+      "val_clip_acc": 0.916015625,
+      "val_clip_f1": 0.9160891065757026,
+      "lr": 0.0006545384961988914,
+      "time": 21.891878128051758
+    },
+    {
+      "epoch": 49,
+      "train_loss": 0.1551956180557908,
+      "val_loss": 0.3989521199616557,
+      "val_chunk_acc": 0.8937664618086041,
+      "val_chunk_f1": 0.8940246581218128,
+      "val_clip_acc": 0.9140625,
+      "val_clip_f1": 0.9141456148505059,
+      "lr": 0.0006420374962141554,
+      "time": 16.869110584259033
+    },
+    {
+      "epoch": 50,
+      "train_loss": 0.1502699682780777,
+      "val_loss": 0.3886001483456308,
+      "val_chunk_acc": 0.8814749780509219,
+      "val_chunk_f1": 0.8812776005153231,
+      "val_clip_acc": 0.919921875,
+      "val_clip_f1": 0.9201099045215988,
+      "lr": 0.0006294391443087339,
+      "time": 17.335100412368774
+    },
+    {
+      "epoch": 51,
+      "train_loss": 0.12808837439401083,
+      "val_loss": 0.4081257345176141,
+      "val_chunk_acc": 0.8709394205443372,
+      "val_chunk_f1": 0.8722331209842716,
+      "val_clip_acc": 0.91015625,
+      "val_clip_f1": 0.9107737949098256,
+      "lr": 0.0006167520753416476,
+      "time": 17.521658420562744
+    },
+    {
+      "epoch": 52,
+      "train_loss": 0.1312192672317526,
+      "val_loss": 0.3486853202410808,
+      "val_chunk_acc": 0.887620719929763,
+      "val_chunk_f1": 0.8882530368503107,
+      "val_clip_acc": 0.927734375,
+      "val_clip_f1": 0.9279118438648252,
+      "lr": 0.0006039849849782293,
+      "time": 18.177039861679077
+    },
+    {
+      "epoch": 53,
+      "train_loss": 0.1266013620398849,
+      "val_loss": 0.3744019569274728,
+      "val_chunk_acc": 0.8867427568042142,
+      "val_chunk_f1": 0.8868489898848921,
+      "val_clip_acc": 0.908203125,
+      "val_clip_f1": 0.9080597595107374,
+      "lr": 0.0005911466237301512,
+      "time": 18.06002712249756
+    },
+    {
+      "epoch": 54,
+      "train_loss": 0.11912794037157273,
+      "val_loss": 0.36566507926209124,
+      "val_chunk_acc": 0.884108867427568,
+      "val_chunk_f1": 0.8843981604528749,
+      "val_clip_acc": 0.927734375,
+      "val_clip_f1": 0.9278138829380228,
+      "lr": 0.0005782457909578581,
+      "time": 17.929282665252686
+    },
+    {
+      "epoch": 55,
+      "train_loss": 0.11574501023594155,
+      "val_loss": 0.40308737650160414,
+      "val_chunk_acc": 0.8788410886742757,
+      "val_chunk_f1": 0.8789624865080545,
+      "val_clip_acc": 0.908203125,
+      "val_clip_f1": 0.9081118007920815,
+      "lr": 0.0005652913288395241,
+      "time": 17.34430718421936
+    },
+    {
+      "epoch": 56,
+      "train_loss": 0.11298827735714645,
+      "val_loss": 0.39943705544961555,
+      "val_chunk_acc": 0.8858647936786654,
+      "val_chunk_f1": 0.8863328329667683,
+      "val_clip_acc": 0.9140625,
+      "val_clip_f1": 0.9146035701473605,
+      "lr": 0.0005522921163106569,
+      "time": 17.834426641464233
+    },
+    {
+      "epoch": 57,
+      "train_loss": 0.10016681434938228,
+      "val_loss": 0.3537720506184974,
+      "val_chunk_acc": 0.897278314310799,
+      "val_chunk_f1": 0.8973209459976951,
+      "val_clip_acc": 0.931640625,
+      "val_clip_f1": 0.9315067596080839,
+      "lr": 0.0005392570629785146,
+      "time": 17.675394535064697
+    },
+    {
+      "epoch": 58,
+      "train_loss": 0.09748130631315181,
+      "val_loss": 0.33615196949562764,
+      "val_chunk_acc": 0.9113257243195786,
+      "val_chunk_f1": 0.9113308836487769,
+      "val_clip_acc": 0.939453125,
+      "val_clip_f1": 0.9391919353725212,
+      "lr": 0.0005261951030154942,
+      "time": 19.150662422180176
+    },
+    {
+      "epoch": 59,
+      "train_loss": 0.10192252411301356,
+      "val_loss": 0.3437646241487381,
+      "val_chunk_acc": 0.897278314310799,
+      "val_chunk_f1": 0.897214783611431,
+      "val_clip_acc": 0.935546875,
+      "val_clip_f1": 0.9353865862663064,
+      "lr": 0.0005131151890356891,
+      "time": 19.746619939804077
+    },
+    {
+      "epoch": 60,
+      "train_loss": 0.10079763376389642,
+      "val_loss": 0.35175191212684254,
+      "val_chunk_acc": 0.8990342405618964,
+      "val_chunk_f1": 0.8991758815381208,
+      "val_clip_acc": 0.935546875,
+      "val_clip_f1": 0.9356199510500398,
+      "lr": 0.0005000262859588018,
+      "time": 17.73230528831482
+    },
+    {
+      "epoch": 61,
+      "train_loss": 0.09413958143397987,
+      "val_loss": 0.36907439699185535,
+      "val_chunk_acc": 0.8955223880597015,
+      "val_chunk_f1": 0.8959159455964304,
+      "val_clip_acc": 0.927734375,
+      "val_clip_f1": 0.9279118340126719,
+      "lr": 0.00048693736486562546,
+      "time": 17.319611310958862
+    },
+    {
+      "epoch": 62,
+      "train_loss": 0.08795108753873641,
+      "val_loss": 0.3225589807981771,
+      "val_chunk_acc": 0.9086918349429324,
+      "val_chunk_f1": 0.9088098119334329,
+      "val_clip_acc": 0.953125,
+      "val_clip_f1": 0.9530974333563427,
+      "lr": 0.0004738573968493017,
+      "time": 17.422949075698853
+    },
+    {
+      "epoch": 63,
+      "train_loss": 0.08010653635284987,
+      "val_loss": 0.35096704776712007,
+      "val_chunk_acc": 0.8920105355575065,
+      "val_chunk_f1": 0.8923663712850597,
+      "val_clip_acc": 0.919921875,
+      "val_clip_f1": 0.9197565271615161,
+      "lr": 0.00046079534686656955,
+      "time": 17.400355339050293
+    },
+    {
+      "epoch": 64,
+      "train_loss": 0.07243733818691418,
+      "val_loss": 0.3280432866763608,
+      "val_chunk_acc": 0.9007901668129938,
+      "val_chunk_f1": 0.9011679648211823,
+      "val_clip_acc": 0.931640625,
+      "val_clip_f1": 0.9315549276749263,
+      "lr": 0.000447760167593221,
+      "time": 19.784098148345947
+    },
+    {
+      "epoch": 65,
+      "train_loss": 0.07226734530614562,
+      "val_loss": 0.33995378896580963,
+      "val_chunk_acc": 0.9069359086918349,
+      "val_chunk_f1": 0.9068371222844684,
+      "val_clip_acc": 0.93359375,
+      "val_clip_f1": 0.9332366461049533,
+      "lr": 0.0004347607932879736,
+      "time": 17.154951333999634
+    },
+    {
+      "epoch": 66,
+      "train_loss": 0.07770301117356043,
+      "val_loss": 0.34728088925238554,
+      "val_chunk_acc": 0.9051799824407375,
+      "val_chunk_f1": 0.9053145858223222,
+      "val_clip_acc": 0.921875,
+      "val_clip_f1": 0.921695777433748,
+      "lr": 0.00042180613366896527,
+      "time": 17.39509892463684
+    },
+    {
+      "epoch": 67,
+      "train_loss": 0.07561410261864164,
+      "val_loss": 0.33509867967378687,
+      "val_chunk_acc": 0.9078138718173837,
+      "val_chunk_f1": 0.907854931725005,
+      "val_clip_acc": 0.947265625,
+      "val_clip_f1": 0.9470340487404987,
+      "lr": 0.00040890506780707077,
+      "time": 18.59059166908264
+    },
+    {
+      "epoch": 68,
+      "train_loss": 0.06418156043353329,
+      "val_loss": 0.3803299818518289,
+      "val_chunk_acc": 0.8981562774363476,
+      "val_chunk_f1": 0.8980072252507031,
+      "val_clip_acc": 0.935546875,
+      "val_clip_f1": 0.9352859480873181,
+      "lr": 0.00039606643804022224,
+      "time": 16.6669819355011
+    },
+    {
+      "epoch": 69,
+      "train_loss": 0.07181297434142316,
+      "val_loss": 0.352986941011042,
+      "val_chunk_acc": 0.9095697980684812,
+      "val_chunk_f1": 0.9096418630301842,
+      "val_clip_acc": 0.939453125,
+      "val_clip_f1": 0.939389432134327,
+      "lr": 0.0003832990439129064,
+      "time": 17.584174633026123
+    },
+    {
+      "epoch": 70,
+      "train_loss": 0.057594838122048055,
+      "val_loss": 0.34011120250394616,
+      "val_chunk_acc": 0.9095697980684812,
+      "val_chunk_f1": 0.9095555726085518,
+      "val_clip_acc": 0.9453125,
+      "val_clip_f1": 0.9452190151612256,
+      "lr": 0.0003706116361449939,
+      "time": 17.683704376220703
+    },
+    {
+      "epoch": 71,
+      "train_loss": 0.05994036668036357,
+      "val_loss": 0.3411490842242111,
+      "val_chunk_acc": 0.897278314310799,
+      "val_chunk_f1": 0.8976072758092575,
+      "val_clip_acc": 0.92578125,
+      "val_clip_f1": 0.9258219547715544,
+      "lr": 0.0003580129106340303,
+      "time": 17.382615566253662
+    },
+    {
+      "epoch": 72,
+      "train_loss": 0.054399179885665096,
+      "val_loss": 0.3467641973751904,
+      "val_chunk_acc": 0.9086918349429324,
+      "val_chunk_f1": 0.908819869359529,
+      "val_clip_acc": 0.953125,
+      "val_clip_f1": 0.9525744371216438,
+      "lr": 0.0003455115024951042,
+      "time": 18.440305709838867
+    },
+    {
+      "epoch": 73,
+      "train_loss": 0.052016291887046824,
+      "val_loss": 0.3357987454107082,
+      "val_chunk_acc": 0.9051799824407375,
+      "val_chunk_f1": 0.9053971543474553,
+      "val_clip_acc": 0.943359375,
+      "val_clip_f1": 0.9429484888523447,
+      "lr": 0.00033311598014237366,
+      "time": 18.09317421913147
+    },
+    {
+      "epoch": 74,
+      "train_loss": 0.057842814045617856,
+      "val_loss": 0.3574618829039757,
+      "val_chunk_acc": 0.9016681299385426,
+      "val_chunk_f1": 0.9015224332402729,
+      "val_clip_acc": 0.9453125,
+      "val_clip_f1": 0.9452731069276411,
+      "lr": 0.0003208348394163115,
+      "time": 19.25005078315735
+    },
+    {
+      "epoch": 75,
+      "train_loss": 0.048674007720616926,
+      "val_loss": 0.32850067169651637,
+      "val_chunk_acc": 0.9113257243195786,
+      "val_chunk_f1": 0.9117465946869147,
+      "val_clip_acc": 0.94921875,
+      "val_clip_f1": 0.9490463706045976,
+      "lr": 0.0003086764977606896,
+      "time": 14.92676830291748
+    },
+    {
+      "epoch": 76,
+      "train_loss": 0.05641325661935002,
+      "val_loss": 0.34381030590205575,
+      "val_chunk_acc": 0.9165935030728709,
+      "val_chunk_f1": 0.916753982346585,
+      "val_clip_acc": 0.955078125,
+      "val_clip_f1": 0.9548076357656973,
+      "lr": 0.0002966492884532979,
+      "time": 17.636353254318237
+    },
+    {
+      "epoch": 77,
+      "train_loss": 0.04392133690566423,
+      "val_loss": 0.3390794483138554,
+      "val_chunk_acc": 0.9201053555750659,
+      "val_chunk_f1": 0.9200766388610653,
+      "val_clip_acc": 0.9453125,
+      "val_clip_f1": 0.9451033523672616,
+      "lr": 0.00028476145489434937,
+      "time": 18.073806524276733
+    },
+    {
+      "epoch": 78,
+      "train_loss": 0.04567255797874497,
+      "val_loss": 0.3559878446534603,
+      "val_chunk_acc": 0.9122036874451273,
+      "val_chunk_f1": 0.9123358628196663,
+      "val_clip_acc": 0.94921875,
+      "val_clip_f1": 0.9489456328141219,
+      "lr": 0.0002730211449564871,
+      "time": 17.418904304504395
+    },
+    {
+      "epoch": 79,
+      "train_loss": 0.043465698115437865,
+      "val_loss": 0.3219789790416413,
+      "val_chunk_acc": 0.9122036874451273,
+      "val_chunk_f1": 0.9123160203602256,
+      "val_clip_acc": 0.951171875,
+      "val_clip_f1": 0.9508462208416094,
+      "lr": 0.00026143640540026705,
+      "time": 16.909332036972046
+    },
+    {
+      "epoch": 80,
+      "train_loss": 0.040141953581787015,
+      "val_loss": 0.32741884223927104,
+      "val_chunk_acc": 0.9209833187006146,
+      "val_chunk_f1": 0.9210184699543367,
+      "val_clip_acc": 0.955078125,
+      "val_clip_f1": 0.9545799484440867,
+      "lr": 0.00025001517635893876,
+      "time": 18.183009386062622
+    },
+    {
+      "epoch": 81,
+      "train_loss": 0.05493369918451252,
+      "val_loss": 0.3302841624007924,
+      "val_chunk_acc": 0.9095697980684812,
+      "val_chunk_f1": 0.9099043864801634,
+      "val_clip_acc": 0.9375,
+      "val_clip_f1": 0.9373527790394498,
+      "lr": 0.00023876528589631248,
+      "time": 17.31765842437744
+    },
+    {
+      "epoch": 82,
+      "train_loss": 0.041152177161600696,
+      "val_loss": 0.3359085877309042,
+      "val_chunk_acc": 0.9209833187006146,
+      "val_chunk_f1": 0.9210701294573145,
+      "val_clip_acc": 0.94921875,
+      "val_clip_f1": 0.9491134448782989,
+      "lr": 0.00022769444464143434,
+      "time": 16.718503952026367
+    },
+    {
+      "epoch": 83,
+      "train_loss": 0.0394206507707456,
+      "val_loss": 0.36256054720143877,
+      "val_chunk_acc": 0.9078138718173837,
+      "val_chunk_f1": 0.9079800345701745,
+      "val_clip_acc": 0.939453125,
+      "val_clip_f1": 0.9394203437008154,
+      "lr": 0.0002168102405037549,
+      "time": 17.986525774002075
+    },
+    {
+      "epoch": 84,
+      "train_loss": 0.0374946186102059,
+      "val_loss": 0.32698917947546025,
+      "val_chunk_acc": 0.913081650570676,
+      "val_chunk_f1": 0.9132661983123678,
+      "val_clip_acc": 0.955078125,
+      "val_clip_f1": 0.954826755021427,
+      "lr": 0.00020612013347240483,
+      "time": 17.06266212463379
+    },
+    {
+      "epoch": 85,
+      "train_loss": 0.03258060665434623,
+      "val_loss": 0.3305471075128002,
+      "val_chunk_acc": 0.9165935030728709,
+      "val_chunk_f1": 0.9167093470171481,
+      "val_clip_acc": 0.951171875,
+      "val_clip_f1": 0.9510063960341189,
+      "lr": 0.00019563145050314996,
+      "time": 18.748252153396606
+    },
+    {
+      "epoch": 86,
+      "train_loss": 0.03420139463192009,
+      "val_loss": 0.3263447514299346,
+      "val_chunk_acc": 0.9201053555750659,
+      "val_chunk_f1": 0.920204715594486,
+      "val_clip_acc": 0.953125,
+      "val_clip_f1": 0.9529060700163516,
+      "lr": 0.00018535138049652507,
+      "time": 18.24115562438965
+    },
+    {
+      "epoch": 87,
+      "train_loss": 0.034726170127291275,
+      "val_loss": 0.3350055438840044,
+      "val_chunk_acc": 0.9201053555750659,
+      "val_chunk_f1": 0.9203932385510607,
+      "val_clip_acc": 0.953125,
+      "val_clip_f1": 0.9529137687723603,
+      "lr": 0.00017528696937059107,
+      "time": 18.760401010513306
+    },
+    {
+      "epoch": 88,
+      "train_loss": 0.03175217215435572,
+      "val_loss": 0.34811139098900884,
+      "val_chunk_acc": 0.9148375768217735,
+      "val_chunk_f1": 0.9148635160370342,
+      "val_clip_acc": 0.9375,
+      "val_clip_f1": 0.9373650926564132,
+      "lr": 0.0001654451152316921,
+      "time": 18.52225160598755
+    },
+    {
+      "epoch": 89,
+      "train_loss": 0.03127690965691245,
+      "val_loss": 0.3099663601934753,
+      "val_chunk_acc": 0.9201053555750659,
+      "val_chunk_f1": 0.9205336677599846,
+      "val_clip_acc": 0.958984375,
+      "val_clip_f1": 0.9588327604002813,
+      "lr": 0.0001558325636465205,
+      "time": 20.241357803344727
+    },
+    {
+      "epoch": 90,
+      "train_loss": 0.03021883527677222,
+      "val_loss": 0.34558364482722437,
+      "val_chunk_acc": 0.9218612818261633,
+      "val_chunk_f1": 0.9218900252760379,
+      "val_clip_acc": 0.94921875,
+      "val_clip_f1": 0.9488970513631997,
+      "lr": 0.00014645590301873307,
+      "time": 18.906864643096924
+    },
+    {
+      "epoch": 91,
+      "train_loss": 0.02865875041089862,
+      "val_loss": 0.31772039286445586,
+      "val_chunk_acc": 0.922739244951712,
+      "val_chunk_f1": 0.9228985813079909,
+      "val_clip_acc": 0.962890625,
+      "val_clip_f1": 0.9628165021265671,
+      "lr": 0.00013732156007328667,
+      "time": 21.5796856880188
+    },
+    {
+      "epoch": 92,
+      "train_loss": 0.027756185252144634,
+      "val_loss": 0.31917010026610243,
+      "val_chunk_acc": 0.922739244951712,
+      "val_chunk_f1": 0.9229014262807406,
+      "val_clip_acc": 0.951171875,
+      "val_clip_f1": 0.9510817144826801,
+      "lr": 0.00012843579545158718,
+      "time": 17.973148822784424
+    },
+    {
+      "epoch": 93,
+      "train_loss": 0.027598611277389717,
+      "val_loss": 0.33386874417394163,
+      "val_chunk_acc": 0.922739244951712,
+      "val_chunk_f1": 0.9229399303634738,
+      "val_clip_acc": 0.9609375,
+      "val_clip_f1": 0.9607785274026414,
+      "lr": 0.00011980469942047073,
+      "time": 19.88891577720642
+    },
+    {
+      "epoch": 94,
+      "train_loss": 0.026909906836039568,
+      "val_loss": 0.3291915327611464,
+      "val_chunk_acc": 0.9209833187006146,
+      "val_chunk_f1": 0.921135056992807,
+      "val_clip_acc": 0.955078125,
+      "val_clip_f1": 0.9547793754539433,
+      "lr": 0.0001114341876979597,
+      "time": 20.44220757484436
+    },
+    {
+      "epoch": 95,
+      "train_loss": 0.024755031588565873,
+      "val_loss": 0.340870428074861,
+      "val_chunk_acc": 0.9174714661984197,
+      "val_chunk_f1": 0.9175892475187544,
+      "val_clip_acc": 0.9609375,
+      "val_clip_f1": 0.9606191095221208,
+      "lr": 0.00010332999739865451,
+      "time": 17.244568824768066
+    },
+    {
+      "epoch": 96,
+      "train_loss": 0.02335276278147257,
+      "val_loss": 0.3292810778355159,
+      "val_chunk_acc": 0.9236172080772608,
+      "val_chunk_f1": 0.9237406622787021,
+      "val_clip_acc": 0.95703125,
+      "val_clip_f1": 0.9569755955329803,
+      "lr": 9.549768310153767e-05,
+      "time": 18.077515602111816
+    },
+    {
+      "epoch": 97,
+      "train_loss": 0.022743198945819134,
+      "val_loss": 0.3393323719239842,
+      "val_chunk_acc": 0.9236172080772608,
+      "val_chunk_f1": 0.9236758913301513,
+      "val_clip_acc": 0.94921875,
+      "val_clip_f1": 0.9489462886539521,
+      "lr": 8.794261304288931e-05,
+      "time": 18.566380977630615
+    },
+    {
+      "epoch": 98,
+      "train_loss": 0.021636955843991543,
+      "val_loss": 0.33359162300118655,
+      "val_chunk_acc": 0.922739244951712,
+      "val_chunk_f1": 0.9228756805502076,
+      "val_clip_acc": 0.962890625,
+      "val_clip_f1": 0.9626270776496267,
+      "lr": 8.066996543691807e-05,
+      "time": 20.33468246459961
+    },
+    {
+      "epoch": 99,
+      "train_loss": 0.023435178336249776,
+      "val_loss": 0.34365200426648645,
+      "val_chunk_acc": 0.9236172080772608,
+      "val_chunk_f1": 0.9236443724763366,
+      "val_clip_acc": 0.958984375,
+      "val_clip_f1": 0.9587514029700154,
+      "lr": 7.368472492663586e-05,
+      "time": 18.005663871765137
+    },
+    {
+      "epoch": 100,
+      "train_loss": 0.021732531443058728,
+      "val_loss": 0.33095426347247336,
+      "val_chunk_acc": 0.922739244951712,
+      "val_chunk_f1": 0.9229180522526718,
+      "val_clip_acc": 0.95703125,
+      "val_clip_f1": 0.9568129962274734,
+      "lr": 6.69916791674029e-05,
+      "time": 18.22107172012329
+    },
+    {
+      "epoch": 101,
+      "train_loss": 0.02130044733424742,
+      "val_loss": 0.33068324717070785,
+      "val_chunk_acc": 0.926251097453907,
+      "val_chunk_f1": 0.9263930427838313,
+      "val_clip_acc": 0.955078125,
+      "val_clip_f1": 0.9546990942341828,
+      "lr": 6.059541554548903e-05,
+      "time": 18.764124631881714
+    },
+    {
+      "epoch": 102,
+      "train_loss": 0.02373566448568819,
+      "val_loss": 0.33442663258110045,
+      "val_chunk_acc": 0.9183494293239683,
+      "val_chunk_f1": 0.9185536980169037,
+      "val_clip_acc": 0.958984375,
+      "val_clip_f1": 0.9587289597418518,
+      "lr": 5.4500318033897215e-05,
+      "time": 17.948914527893066
+    },
+    {
+      "epoch": 103,
+      "train_loss": 0.021466938397252416,
+      "val_loss": 0.3298055733814901,
+      "val_chunk_acc": 0.9236172080772608,
+      "val_chunk_f1": 0.9238404109453173,
+      "val_clip_acc": 0.962890625,
+      "val_clip_f1": 0.9627533620914651,
+      "lr": 4.8710564187606165e-05,
+      "time": 20.300130605697632
+    },
+    {
+      "epoch": 104,
+      "train_loss": 0.019006460411361902,
+      "val_loss": 0.3381853391391023,
+      "val_chunk_acc": 0.9218612818261633,
+      "val_chunk_f1": 0.9219074335369696,
+      "val_clip_acc": 0.953125,
+      "val_clip_f1": 0.9527193484860705,
+      "lr": 4.3230122280292104e-05,
+      "time": 17.584440231323242
+    },
+    {
+      "epoch": 105,
+      "train_loss": 0.021215407020715345,
+      "val_loss": 0.3444827262302362,
+      "val_chunk_acc": 0.9236172080772608,
+      "val_chunk_f1": 0.9237342983343365,
+      "val_clip_acc": 0.95703125,
+      "val_clip_f1": 0.9567967079668491,
+      "lr": 3.806274858448921e-05,
+      "time": 17.998634815216064
+    },
+    {
+      "epoch": 106,
+      "train_loss": 0.019910031174081397,
+      "val_loss": 0.3422589755900812,
+      "val_chunk_acc": 0.922739244951712,
+      "val_chunk_f1": 0.9229435859867837,
+      "val_clip_acc": 0.95703125,
+      "val_clip_f1": 0.9567307428823701,
+      "lr": 3.321198479705678e-05,
+      "time": 18.845735788345337
+    },
+    {
+      "epoch": 107,
+      "train_loss": 0.019672143531132894,
+      "val_loss": 0.3457954008266317,
+      "val_chunk_acc": 0.922739244951712,
+      "val_chunk_f1": 0.922877343295499,
+      "val_clip_acc": 0.953125,
+      "val_clip_f1": 0.9529558227932298,
+      "lr": 2.8681155611713248e-05,
+      "time": 17.888431310653687
+    },
+    {
+      "epoch": 108,
+      "train_loss": 0.018410375109877454,
+      "val_loss": 0.3536066947549032,
+      "val_chunk_acc": 0.9236172080772608,
+      "val_chunk_f1": 0.9237167972126042,
+      "val_clip_acc": 0.955078125,
+      "val_clip_f1": 0.9547771039791654,
+      "lr": 2.4473366440305956e-05,
+      "time": 20.762497425079346
+    },
+    {
+      "epoch": 109,
+      "train_loss": 0.02123908212326138,
+      "val_loss": 0.3431109275351605,
+      "val_chunk_acc": 0.9253731343283582,
+      "val_chunk_f1": 0.9254861286625425,
+      "val_clip_acc": 0.95703125,
+      "val_clip_f1": 0.9568129962274734,
+      "lr": 2.0591501284373816e-05,
+      "time": 17.79034662246704
+    },
+    {
+      "epoch": 110,
+      "train_loss": 0.01854147711192748,
+      "val_loss": 0.3447640066650795,
+      "val_chunk_acc": 0.9236172080772608,
+      "val_chunk_f1": 0.9237099204253671,
+      "val_clip_acc": 0.958984375,
+      "val_clip_f1": 0.9587289597418518,
+      "lr": 1.703822075846495e-05,
+      "time": 15.53248381614685
+    },
+    {
+      "epoch": 111,
+      "train_loss": 0.017668889094907117,
+      "val_loss": 0.3369032332806131,
+      "val_chunk_acc": 0.9244951712028094,
+      "val_chunk_f1": 0.9246792923599374,
+      "val_clip_acc": 0.958984375,
+      "val_clip_f1": 0.9586391761910401,
+      "lr": 1.3815960266561511e-05,
+      "time": 17.55116319656372
+    },
+    {
+      "epoch": 112,
+      "train_loss": 0.02023370948481751,
+      "val_loss": 0.3441279946488702,
+      "val_chunk_acc": 0.922739244951712,
+      "val_chunk_f1": 0.9228781632017855,
+      "val_clip_acc": 0.958984375,
+      "val_clip_f1": 0.9585960774763448,
+      "lr": 1.0926928332864572e-05,
+      "time": 15.426610469818115
+    },
+    {
+      "epoch": 113,
+      "train_loss": 0.018544984929054136,
+      "val_loss": 0.3477189257361577,
+      "val_chunk_acc": 0.9218612818261633,
+      "val_chunk_f1": 0.9220055003612083,
+      "val_clip_acc": 0.962890625,
+      "val_clip_f1": 0.9625698564871664,
+      "lr": 8.373105088080257e-06,
+      "time": 15.099746942520142
+    },
+    {
+      "epoch": 114,
+      "train_loss": 0.0178622173437153,
+      "val_loss": 0.3443632370631249,
+      "val_chunk_acc": 0.922739244951712,
+      "val_chunk_f1": 0.9228688707145354,
+      "val_clip_acc": 0.9609375,
+      "val_clip_f1": 0.9606775019874934,
+      "lr": 6.156240912246092e-06,
+      "time": 18.437328577041626
+    },
+    {
+      "epoch": 115,
+      "train_loss": 0.017247663563992603,
+      "val_loss": 0.3427447015656726,
+      "val_chunk_acc": 0.9209833187006146,
+      "val_chunk_f1": 0.9211186383339466,
+      "val_clip_acc": 0.953125,
+      "val_clip_f1": 0.9528617072004253,
+      "lr": 4.277855235028105e-06,
+      "time": 18.319708108901978
+    },
+    {
+      "epoch": 116,
+      "train_loss": 0.018217878827608253,
+      "val_loss": 0.3424714953296011,
+      "val_chunk_acc": 0.9218612818261633,
+      "val_chunk_f1": 0.921917764677942,
+      "val_clip_acc": 0.95703125,
+      "val_clip_f1": 0.9568399275106656,
+      "lr": 2.739235494309433e-06,
+      "time": 18.06781244277954
+    }
+  ],
+  "train_seconds": 2125.6047854423523,
+  "split_summary": {
+    "train": {
+      "Tizita": 2154,
+      "Bati": 1915,
+      "Ambassel": 1954,
+      "Anchihoye": 1946,
+      "total": 7969
+    },
+    "val": {
+      "Tizita": 308,
+      "Bati": 274,
+      "Ambassel": 279,
+      "Anchihoye": 278,
+      "total": 1139
+    },
+    "test": {
+      "Tizita": 616,
+      "Bati": 547,
+      "Ambassel": 559,
+      "Anchihoye": 556,
+      "total": 2278
+    }
+  }
+}

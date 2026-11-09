@@ -1,0 +1,39 @@
+seed: 1234
+amp: true
+early_stop_patience: 10
+
+model: wav2vec2
+model_kwargs:
+  dropout: 0.1
+  freeze_feature_extractor: true
+
+log:
+  tag: wav2vec2
+
+data:
+  manifest: results/manifest.json
+  index: cache/index.json
+  split_path: results/split_paper.json
+  win_sec: 3.0
+  batch_size: 16
+  num_workers: 4
+
+augment:
+  raw:
+    gain: true
+    gain_db: 6.0
+    gaussian: true
+    snr_db_range: [20, 35]
+    pitch: false
+    time_stretch: true
+    rate_range: [0.9, 1.1]
+  mixup_alpha: 0.0
+
+optim:
+  name: adamw
+  lr: 3.0e-5
+  weight_decay: 1.0e-4
+  warmup_epochs: 2
+  epochs: 25
+  label_smoothing: 0.1
+  sampler: class_balanced

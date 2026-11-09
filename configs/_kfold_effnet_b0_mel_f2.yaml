@@ -1,0 +1,31 @@
+seed: 1234
+amp: true
+early_stop_patience: 12
+model: efficientnet_b0
+model_kwargs:
+  pretrained: true
+log:
+  tag: effnet_b0_mel_f2
+data:
+  manifest: results/manifest.json
+  index: cache/index.json
+  split_path: results/split_kfold_effnet_b0_mel_f2.json
+  win_sec: 3.0
+  batch_size: 32
+  num_workers: 4
+augment:
+  mel:
+    spec_aug: true
+    n_time_masks: 2
+    time_mask_width: 20
+    n_freq_masks: 2
+    freq_mask_width: 16
+  mixup_alpha: 0.2
+optim:
+  name: adamw
+  lr: 0.0003
+  weight_decay: 0.0001
+  warmup_epochs: 2
+  epochs: 60
+  label_smoothing: 0.1
+  sampler: class_balanced

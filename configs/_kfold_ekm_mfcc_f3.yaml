@@ -1,0 +1,29 @@
+seed: 1234
+amp: true
+early_stop_patience: 25
+model: ekm_mfcc
+model_kwargs: {}
+log:
+  tag: ekm_mfcc_f3
+data:
+  manifest: results/manifest.json
+  index: cache/index.json
+  split_path: results/split_kfold_ekm_mfcc_f3.json
+  win_sec: 3.0
+  batch_size: 32
+  num_workers: 4
+augment:
+  raw:
+    gain: false
+    gaussian: false
+    pitch: false
+    time_stretch: false
+  mixup_alpha: 0.0
+optim:
+  name: adamw
+  lr: 0.001
+  weight_decay: 0.0
+  warmup_epochs: 0
+  epochs: 120
+  label_smoothing: 0.0
+  sampler: null

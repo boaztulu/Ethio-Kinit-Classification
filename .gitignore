@@ -1,0 +1,27 @@
+# Data, caches and model files (not distributed)
+EMIR_Dataset_V1/
+cache/
+checkpoints/
+slurm_logs/
+*.wav
+*.pt
+*.pth
+*.ckpt
+*.npy
+embeddings.npz
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editors, OS and logs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+wandb/
+*.out
+*.err

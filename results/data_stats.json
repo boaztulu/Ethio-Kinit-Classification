@@ -1,0 +1,70 @@
+{
+  "n_total": 600,
+  "samplerates_observed": [
+    16000,
+    44100
+  ],
+  "channels_observed": [
+    1
+  ],
+  "per_class": {
+    "Tizita": {
+      "count": 162,
+      "duration_total_sec": 4860.0,
+      "duration_mean_sec": 30.0,
+      "duration_std_sec": 0.0,
+      "duration_min_sec": 30.0,
+      "duration_max_sec": 30.0
+    },
+    "Bati": {
+      "count": 144,
+      "duration_total_sec": 4320.0,
+      "duration_mean_sec": 30.0,
+      "duration_std_sec": 0.0,
+      "duration_min_sec": 30.0,
+      "duration_max_sec": 30.0
+    },
+    "Ambassel": {
+      "count": 147,
+      "duration_total_sec": 4410.0,
+      "duration_mean_sec": 30.0,
+      "duration_std_sec": 0.0,
+      "duration_min_sec": 30.0,
+      "duration_max_sec": 30.0
+    },
+    "Anchihoye": {
+      "count": 147,
+      "duration_total_sec": 4410.0,
+      "duration_mean_sec": 30.0,
+      "duration_std_sec": 0.0,
+      "duration_min_sec": 30.0,
+      "duration_max_sec": 30.0
+    }
+  },
+  "rms_by_class": {
+    "Tizita": {
+      "mean": 0.22392693228840752,
+      "std": 0.1152955997958275,
+      "min": 0.0747476684019803,
+      "max": 0.7305218079065078
+    },
+    "Bati": {
+      "mean": 0.17977314648806733,
+      "std": 0.06520179663007315,
+      "min": 0.04517716202578142,
+      "max": 0.31981285699300704
+    },
+    "Ambassel": {
+      "mean": 0.19601923019365952,
+      "std": 0.08054408866915376,
+      "min": 0.052592337737949135,
+      "max": 0.7332644544441432
+    },
+    "Anchihoye": {
+      "mean": 0.18692510860273576,
+      "std": 0.0837980138779646,
+      "min": 0.0342359832533477,
+      "max": 0.4586076651680141
+    }
+  }
+}

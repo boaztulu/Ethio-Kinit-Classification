@@ -1,0 +1,35 @@
+seed: 1234
+amp: true
+early_stop_patience: 25
+
+model: ekm_mel
+model_kwargs: {}
+
+log:
+  tag: ekm_mel
+
+data:
+  manifest: results/manifest.json
+  index: cache/index.json
+  split_path: results/split_paper.json
+  win_sec: 3.0
+  batch_size: 32
+  num_workers: 4
+
+augment:
+  mel:
+    spec_aug: true
+    n_time_masks: 2
+    time_mask_width: 20
+    n_freq_masks: 2
+    freq_mask_width: 16
+  mixup_alpha: 0.0
+
+optim:
+  name: adamw
+  lr: 1.0e-3
+  weight_decay: 0.0
+  warmup_epochs: 1
+  epochs: 80
+  label_smoothing: 0.1
+  sampler: class_balanced
